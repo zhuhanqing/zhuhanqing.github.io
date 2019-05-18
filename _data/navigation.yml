@@ -1,22 +1,16 @@
 # main links links
 main:
-  - title: "Publications"
+  - title: "ABOUT"
+    url: /
+
+  - title: "PUBLICATIONS"
     url: /publications/
 
-  - title: "Talks"
-    url: /talks/    
-
-  - title: "Teaching"
-    url: /teaching/    
-    
-  - title: "Portfolio"
-    url: /portfolio/
-        
-  - title: "Blog Posts"
-    url: /year-archive/
+  - title: "EXPERIENCE"
+    url: /experience/    
     
   - title: "CV"
     url: /cv/
     
-  - title: "Guide"
-    url: /markdown/
+  - title: "UTDA"
+    url: http://www.cerc.utexas.edu/utda/

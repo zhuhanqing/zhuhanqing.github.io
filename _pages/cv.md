@@ -9,51 +9,73 @@ redirect_from:
 
 {% include base_path %}
 
+[PDF format](/files/resume.pdf){: .share-button}
+
 Education
-======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+------
+* Ph.D. in University of Texas at Austin, Texas, US, 2020 (expected)
+* B.Eng. in Zhejiang University, Hangzhou, China, 2015
+
 
 Work experience
-======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+------
+* University of Texas at Austin (Aug 2015 - Present) 
+  * University of Texas at Austin, Austin, TX
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
+* Toshiba Memory Group (June 2016 - Aug 2016) 
+  * Research Intern, Ofuna, Japan
+
+* Cadence Design Systems (May 2018 - Aug 2018) 
+  * Software Engineering Intern, Austin, TX
+
+* HiSilicon (June 2016 - Aug 2016) 
+  * Research Intern, Shenzhen, China
+
+* Synopsys Inc. (May 2016 - Aug 2016) 
+  * Technical Intern, Sunnyvale, CA
+
+
 Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+------
+* Programming languages
+  * C/C++ 
+  * Python 
+  * Verilog 
+* EDA tools
+  * Cadence Virtuoso 
+  * Synopsys Design Compiler
+  * Synopsys IC Compiler
+  
 
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+Awards and Honors
+------
+* Cadence Women in Technology Scholarship, Cadence Design Systems, 2018
+* UTGS Fellowship, University of Texas at Austin, 2015
+* National Scholarship, China, 2014
+* UHV Scholarship, Zhejiang University, 2014
+* Samsung Scholarship, Zhejiang University, 2013
+* National Scholarship, China, 2012
+
+
+Related Courses 
+------
+* EE382M: VLSI I
+  * Dr. Jacob Abraham 
+* EE382M: VLSI II 
+  * Dr. Mark McDermott
+* EE382M: Advanced Issues in VLSI CAD \& Optimizations
+  * Dr. David Pan 
+* EE382C: Multicore Computing                   
+  * Dr. Vijay Garg
+* EE382N: High-Speed Computer Arithmetic I
+  * Dr. Earl Swartzlander
+* EE382M: VLSI Physical Design Automation
+  * Dr. David Pan
+* EE381K: Convex Optimization
+  * Dr. Constantine Caramanis
+* EE380L: Engineer Programming languages
+  * Dr. Craig Chase
+* EE380L: Data Mining                           
+  * Dr. Joydeep Ghosh
+* CS383C: Numerical Analysis: Linear Algebra
+  * Dr. George Biros
