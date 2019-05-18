@@ -9,7 +9,14 @@ redirect_from:
 
 {% include base_path %}
 
-[PDF format](/files/resume.pdf){: .share-button}
+[PDF](/files/resume.pdf){: .btn}
+
+## WEI YE
+{: .text-center}
+Ph.D. Candidate,  Department of Electrical and Computer Engineering
+{: .text-center}
+University of Texas at Austin,  Austin, TX 78712
+{: .text-center}
 
 Education
 ------

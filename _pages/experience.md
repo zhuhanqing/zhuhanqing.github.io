@@ -14,26 +14,24 @@ author_profile: true
   * August 2015 - Present, Austin, TX
 
 * **Toshiba Memory Group, Ofuna, Japan**
-  * Internship
+  * Research Intern
   * MLG team
   * June 2019 - Aug 2019, Ofuna, Japan
 
 * **Cadence Design Systems, Inc., USA**
-  * Internship
-  * DETEX team 
   * Software Engineering Intern
+  * Voltus Team
   * Manager: Albert Zeng
   * May 2018 - August 2018, Austin, TX
 
 * **Hisilicon, China**
-  * Internship
   * Research Intern
   * Manager: Canhui Zhan 
   * June 2017 - August 2017, Shenzhen, China 
 
 * **Synopsys Inc., USA**
-  * Internship
-  * Software Engineering Intern
+  * Technical Intern
+  * CTS Team
   * Manager: Dwight Hill 
   * May 2016 - August 2016, Sunnyvale, CA
 
