@@ -42,7 +42,6 @@ C4. [Machine Learning for Yield Learning and Optimization](https://doi.org/10.11
 C3. [Power Grid Reduction by Sparse Convex Optimization](http://doi.acm.org/10.1145/3177540.3178247) 
    * <a href="/publications/papers/PG_ISPD18_Ye.pdf" style="color:#3793ae">preprint</a>
    * **Wei Ye**, Meng Li, Kai Zhong, Bei Yu and David Z. Pan 
-   * IEEE International Test Conference (ITC), Phoenix, Arizona, Oct, 2018.
    * ACM International Symposium on Physical Design (ISPD), Monterey, California, Mar 25-28, 2018.
           
 C2. [Placement Mitigation Techniques for Power Grid Electromigration](https://doi.org/10.1109/ISLPED.2017.8009178) 
