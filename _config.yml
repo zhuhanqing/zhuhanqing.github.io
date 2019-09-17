@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "WEI YE'S SITE"
+title                    : #"WEI YE'S SITE"
 title_separator          : "-"
 name                     : &name "Wei Ye"
 description              : &description "PhD Candidate at The University of Texas at Austin"
