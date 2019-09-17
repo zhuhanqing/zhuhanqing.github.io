@@ -15,7 +15,7 @@ author_profile: true
 
 * **Toshiba Memory Group, Ofuna, Japan**
   * Research Intern
-  * MLG team
+  * Memory Lithography Group
   * June 2019 - Aug 2019, Ofuna, Japan
 
 * **Cadence Design Systems, Inc., USA**
