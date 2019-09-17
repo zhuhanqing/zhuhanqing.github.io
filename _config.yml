@@ -7,10 +7,10 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Home"
+title                    : "HOME"
 title_separator          : "-"
 name                     : &name "Wei Ye"
-description              : &description "PhD Candidate at The University of Texas at Austin"
+description              : &description "PhD Candidate at UT Austin"
 url                      : https://ywwwer.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "ywwwer.github.io"
