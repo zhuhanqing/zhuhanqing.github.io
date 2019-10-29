@@ -13,9 +13,10 @@ author_profile: true
   * ECE department, University of Texas at Austin
   * August 2015 - Present, Austin, TX
 
-* **Kioxia (Toshiba Memory Group), Yokohama, Japan**
+* **Kioxia (Toshiba Memory Corporation), Yokohama, Japan**
   * Research Intern
   * Memory Lithography Group
+  * Manager: Shigeki Nojima
   * June 2019 - Aug 2019, Yokohama, Japan
 
 * **Cadence Design Systems, Inc., USA**
@@ -23,11 +24,6 @@ author_profile: true
   * Voltus Team
   * Manager: Albert Zeng
   * May 2018 - August 2018, Austin, TX
-
-* **Hisilicon, China**
-  * Research Intern
-  * Manager: Canhui Zhan 
-  * June 2017 - August 2017, Shenzhen, China 
 
 * **Synopsys Inc., USA**
   * Technical Intern

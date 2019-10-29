@@ -29,14 +29,11 @@ Work experience
 * University of Texas at Austin (Aug 2015 - Present) 
   * University of Texas at Austin, Austin, TX
 
-* Toshiba Memory Group (Now: Kioxia) (June 2019 - Aug 2019) 
+* Kioxia (Toshiba Memory Corporation) (June 2019 - Aug 2019) 
   * Research Intern, Yokohama, Japan
 
 * Cadence Design Systems (May 2018 - Aug 2018) 
   * Software Engineering Intern, Austin, TX
-
-* HiSilicon (June 2017 - Aug 2017) 
-  * Research Intern, Shenzhen, China
 
 * Synopsys Inc. (May 2016 - Aug 2016) 
   * Technical Intern, Sunnyvale, CA
