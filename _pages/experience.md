@@ -13,10 +13,10 @@ author_profile: true
   * ECE department, University of Texas at Austin
   * August 2015 - Present, Austin, TX
 
-* **Toshiba Memory Group, Ofuna, Japan**
+* **Kioxia (Toshiba Memory Group), Yokohama, Japan**
   * Research Intern
   * Memory Lithography Group
-  * June 2019 - Aug 2019, Ofuna, Japan
+  * June 2019 - Aug 2019, Yokohama, Japan
 
 * **Cadence Design Systems, Inc., USA**
   * Software Engineering Intern

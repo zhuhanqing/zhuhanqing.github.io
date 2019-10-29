@@ -29,8 +29,8 @@ Work experience
 * University of Texas at Austin (Aug 2015 - Present) 
   * University of Texas at Austin, Austin, TX
 
-* Toshiba Memory Group (June 2019 - Aug 2019) 
-  * Research Intern, Ofuna, Japan
+* Toshiba Memory Group (Now: Kioxia) (June 2019 - Aug 2019) 
+  * Research Intern, Yokohama, Japan
 
 * Cadence Design Systems (May 2018 - Aug 2018) 
   * Software Engineering Intern, Austin, TX
@@ -57,11 +57,10 @@ Skills
 Awards and Honors
 ------
 * Cadence Women in Technology Scholarship, Cadence Design Systems, 2018
-* UTGS Fellowship, University of Texas at Austin, 2015
-* National Scholarship, China, 2014
+* UTGS Fellowship, University of Texas at Austin, 2015 -- 2019
+* National Scholarship, China, 2012, 2014
 * UHV Scholarship, Zhejiang University, 2014
 * Samsung Scholarship, Zhejiang University, 2013
-* National Scholarship, China, 2012
 
 
 Related Courses 
