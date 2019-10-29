@@ -43,8 +43,15 @@ Skills
 ------
 * Programming languages
   * C/C++ 
-  * Python 
-  * Verilog 
+  * Python (Tensorflow, PyTorch)
+  * Verilog
+  * MATLAB
+  * Bash
+* Tools
+  * Boost C++ Libraries
+  * Intel MKL library
+  * Gurobi Solver
+  * Hypergraph partitioning package (hMETIS) 
 * EDA tools
   * Cadence Virtuoso 
   * Synopsys Design Compiler
@@ -53,8 +60,8 @@ Skills
 
 Awards and Honors
 ------
-* Cadence Women in Technology Scholarship, Cadence Design Systems, 2018
 * UTGS Fellowship, University of Texas at Austin, 2015 -- 2019
+* Cadence Women in Technology Scholarship, Cadence Design Systems, 2018
 * National Scholarship, China, 2012, 2014
 * UHV Scholarship, Zhejiang University, 2014
 * Samsung Scholarship, Zhejiang University, 2013
