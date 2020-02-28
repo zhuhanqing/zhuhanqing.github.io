@@ -28,13 +28,13 @@ Conference Papers
 -------
 
 C9. TEMPO: Fast Mask Topography Effect Modeling with Deep Learning
-   * <a href="/publications/papers/DFM_ISPD2020_Ye.pdf" style="color:#3793ae">preprint</a> \| *Best Paper Nomination*
-   * Wei Ye, Mohamed Baker Alawieh, Yuki Watanabe, Shigeki Nojima, Yibo Lin, and David Z. Pan
+   * <a href="/publications/papers/DFM_ISPD2020_Ye.pdf" style="color:#3793ae">preprint</a> \| **Best Paper Nomination**
+   * **Wei Ye**, Mohamed Baker Alawieh, Yuki Watanabe, Shigeki Nojima, Yibo Lin, and David Z. Pan
    * ACM International Symposium on Physical Design (ISPD), Taipei, Taiwan, Mar 29-Apr 1, 2020.
 
 
 C8. [LithoGAN: End-to-End Lithography Modeling with Generative Adversarial Networks](https://doi.org/10.1145/3316781.3317852) 
-   * <a href="/publications/papers/DFM_DAC2019_Ye.pdf" style="color:#3793ae">preprint</a> \| *Best Paper Nomination*
+   * <a href="/publications/papers/DFM_DAC2019_Ye.pdf" style="color:#3793ae">preprint</a> \| **Best Paper Nomination**
    * **Wei Ye**, Mohamed Baker Alawieh, Yibo Lin, and David Z. Pan 
    * ACM/IEEE Design Automation Conference (DAC), Las Vegas, NV, Jun 2-6, 2019.
           
