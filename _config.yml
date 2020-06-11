@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "HOME"
 title_separator          : "-"
 name                     : &name "Wei Ye"
-description              : &description "PhD Candidate at UT Austin"
+description              : &description "Research Scientist at Facebook"
 url                      : https://ywwwer.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "ywwwer.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Wei Ye"
   avatar           : "profile-crop.jpg"
-  bio              : "PhD Candidate @ UT Austin"
+  bio              : "Research Scientist @ Facebook"
   location         : "Austin, Texas"
   employer         :
   pubmed           :  #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"

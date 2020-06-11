@@ -27,8 +27,8 @@ J1. Generative Learning in VLSI Design for Manufacturability: Current Status and
 Conference Papers
 -------
 
-C9. TEMPO: Fast Mask Topography Effect Modeling with Deep Learning
-   * <a href="/publications/papers/DFM_ISPD2020_Ye.pdf" style="color:#3793ae">preprint</a> \| **Best Paper Nomination**
+C9. [TEMPO: Fast Mask Topography Effect Modeling with Deep Learning](https://doi.org/10.1145/3372780.3375565)
+   * <a href="/publications/papers/DFM_ISPD2020_Ye.pdf" style="color:#3793ae">preprint</a> \| **Best Paper Award**
    * **Wei Ye**, Mohamed Baker Alawieh, Yuki Watanabe, Shigeki Nojima, Yibo Lin, and David Z. Pan
    * ACM International Symposium on Physical Design (ISPD), Taipei, Taiwan, Mar 29-Apr 1, 2020.
 
