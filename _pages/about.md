@@ -8,9 +8,9 @@ redirect_from:
   - /about.html
 ---
 
+I am currently a research scientist at Facebook, Inc. 
 
-
-I received the Ph.D. degree in Electrical and Computer Engineering, [University of Texas at Austin](https://www.utexas.edu/), under the supervision of Prof. [David Z. Pan](http://www.ece.utexas.edu/~dpan/). 
+Prior to joining Facebook, I received the Ph.D. degree in Electrical and Computer Engineering, [University of Texas at Austin](https://www.utexas.edu/), under the supervision of Prof. [David Z. Pan](http://www.ece.utexas.edu/~dpan/). 
 Previously, I received the B.Eng. degree in electrical engineering from [Zhejiang University](http://www.zju.edu.cn/english/), in 2015.
 
 My PhD research interests include machine learning and computer-aided design for VLSI.

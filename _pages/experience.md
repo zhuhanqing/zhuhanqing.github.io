@@ -7,11 +7,14 @@ author_profile: true
 
 {% include base_path %}
 
+* **Facebook, USA**
+  * Research Scientist 
+  * June 2020 - Present, Menlo Park, CA
 
 * **University of Texas at Austin, USA**
   * Research Assistant 
   * ECE department, University of Texas at Austin
-  * August 2015 - Present, Austin, TX
+  * August 2015 - May 2020, Austin, TX
 
 * **Kioxia (Toshiba Memory Corporation), Yokohama, Japan**
   * Research Intern

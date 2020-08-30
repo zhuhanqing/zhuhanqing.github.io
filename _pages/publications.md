@@ -20,12 +20,17 @@ B1. Dealing with Aging and Yield in Scaled Technologies
 Journal Articles
 -------
 J1. Generative Learning in VLSI Design for Manufacturability: Current Status and Future Directions
+   * <a href="/publications/papers/DFM_JOMM2019_Lin.pdf" style="color:#3793ae">preprint</a>
    * Yibo Lin, Mohamed Baker Alawieh, **Wei Ye**, and David Z. Pan
    * Journal of Microelectronic Manufacturing (JOMM), 2019 (Invited)
 
             
 Conference Papers
 -------
+C10. Re-examining VLSI Manufacturing and Yield through the Lens of Deep Learning
+   * <a href="/publications/papers/DFM_ICCAD2020_Alawieh.pdf" style="color:#3793ae">preprint</a>
+   * Mohamed Baker Alawieh, **Wei Ye**, and David Z. Pan
+   * IEEE/ACM International Conference on Computer Aided Design (ICCAD), 2020.
 
 C9. [TEMPO: Fast Mask Topography Effect Modeling with Deep Learning](https://doi.org/10.1145/3372780.3375565)
    * <a href="/publications/papers/DFM_ISPD2020_Ye.pdf" style="color:#3793ae">preprint</a> \| **Best Paper Award**

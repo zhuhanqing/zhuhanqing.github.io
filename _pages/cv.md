@@ -13,20 +13,18 @@ redirect_from:
 
 ## WEI YE
 {: .text-center}
-Ph.D. Candidate,  Department of Electrical and Computer Engineering
-{: .text-center}
-University of Texas at Austin,  Austin, TX 78712
+Research Scientist @ Facebook
 {: .text-center}
 
 Education
 ------
-* Ph.D. in University of Texas at Austin, Texas, US, 2020 (expected)
+* Ph.D. in University of Texas at Austin, Texas, US, 2020
 * B.Eng. in Zhejiang University, Hangzhou, China, 2015
 
 
 Work experience
 ------
-* University of Texas at Austin (Aug 2015 - Present) 
+* University of Texas at Austin (Aug 2015 - May 2020) 
   * University of Texas at Austin, Austin, TX
 
 * Kioxia (Toshiba Memory Corporation) (June 2019 - Aug 2019) 
