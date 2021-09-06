@@ -8,10 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am currently a research scientist at Facebook, Inc. 
+I am currently a Ph.D. student in the Department of Electrical and Computer Engineering, [University of Texas at Austin](https://www.utexas.edu/), under the supervision of Prof. [David Z. Pan](http://www.ece.utexas.edu/~dpan/) and Prof. [Ray T. Chen](http://www.mrc.utexas.edu/people/faculty/ray-chen). 
+Previously, I received the B.Eng. degree in microelectronics science and engineering from [Shanghai Jiaotong University](https://en.sjtu.edu.cn/), in 2020.
 
-Prior to joining Facebook, I received the Ph.D. degree in Electrical and Computer Engineering, [University of Texas at Austin](https://www.utexas.edu/), under the supervision of Prof. [David Z. Pan](http://www.ece.utexas.edu/~dpan/). 
-Previously, I received the B.Eng. degree in electrical engineering from [Zhejiang University](http://www.zju.edu.cn/english/), in 2015.
-
-My PhD research interests include machine learning and computer-aided design for VLSI.
-I have interned at Synopsys, Cadence, and Toshiba Memory.
+My current research interests primarily include efficient AI computing with emerging technology(photonics) and VLSI design automation.
