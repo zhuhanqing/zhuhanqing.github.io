@@ -9,11 +9,11 @@
 locale                   : "en-US"
 title                    : "HOME"
 title_separator          : "-"
-name                     : &name "Wei Ye"
-description              : &description "Research Scientist at Facebook"
-url                      : https://ywwwer.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+name                     : &name "Hanqing Zhu"
+description              : &description "PhD Student at UT Austin"
+url                      : https://zhuhanqing.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "ywwwer.github.io"
+repository               : "zhuhanqing.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -80,14 +80,14 @@ analytics:
 
 # Site Author
 author:
-  name             : "Wei Ye"
+  name             : "Hanqing Zhu"
   avatar           : "profile-crop.jpg"
-  bio              : "Research Scientist @ Facebook"
-  location         : "Menlo Park, CA"
+  bio              : "PhD student @ UT Austin"
+  location         : "Austin, Texas"
   employer         :
   pubmed           :  #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "https://scholar.google.com/citations?user=wy5I3fwAAAAJ"
-  email            : "weiye@utexas.edu"
+  googlescholar    : "https://scholar.google.com/citations?user=myMcrNEAAAAJ"
+  email            : "hqzhu@utexas.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -96,13 +96,13 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "ywwwer"
+  github           : "zhuhanqing"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "wye"
+  linkedin         : "hanqing-zhu-me"
   orcid            : #"http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
