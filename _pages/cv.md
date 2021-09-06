@@ -11,79 +11,49 @@ redirect_from:
 
 [PDF](/files/resume.pdf){: .btn}
 
-## WEI YE
+## Hanqing Zhu
 {: .text-center}
-Research Scientist @ Facebook
+PhD student, Dept. of Electrical and Computer Engineering @ UT Austin
 {: .text-center}
 
 Education
 ------
-* Ph.D. in University of Texas at Austin, Texas, US, 2020
-* B.Eng. in Zhejiang University, Hangzhou, China, 2015
-
+* Ph.D. in University of Texas at Austin (GPA: 3.92/4.00), Texas, US, 2025(expected)
+* B.Eng. in Shanghai Jiaotong University (GPA: 3.81/4.00, Rank: 2/57), Shanghai, China, 2020
+* Summer School (Full schoolarship) in Peter the Great St. Petersburg Polytechnic University, St. Petersburg, Russia. 2018
 
 Work experience
 ------
-* University of Texas at Austin (Aug 2015 - May 2020) 
+* University of Texas at Austin (Aug 2020 - Present) 
   * University of Texas at Austin, Austin, TX
-
-* Kioxia (Toshiba Memory Corporation) (June 2019 - Aug 2019) 
-  * Research Intern, Yokohama, Japan
-
-* Cadence Design Systems (May 2018 - Aug 2018) 
-  * Software Engineering Intern, Austin, TX
-
-* Synopsys Inc. (May 2016 - Aug 2016) 
-  * Technical Intern, Sunnyvale, CA
 
 
 Skills
 ------
 * Programming languages
-  * C/C++ 
-  * Python (Tensorflow, PyTorch)
+  * Python (PyTorch \& Tensorflow)
+  * C++
   * Verilog
-  * MATLAB
-  * Bash
-* Tools
-  * Boost C++ Libraries
-  * Intel MKL library
-  * Gurobi Solver
-  * Hypergraph partitioning package (hMETIS) 
-* EDA tools
-  * Cadence Virtuoso 
-  * Synopsys Design Compiler
-  * Synopsys IC Compiler
-  
 
 Awards and Honors
 ------
-* UTGS Fellowship, University of Texas at Austin, 2015 -- 2019
-* Cadence Women in Technology Scholarship, Cadence Design Systems, 2018
-* National Scholarship, China, 2012, 2014
-* UHV Scholarship, Zhejiang University, 2014
-* Samsung Scholarship, Zhejiang University, 2013
-
+* Shanghai Outstanding Graduate, shanghai, 2020
+* Hongyi Scholarship, 2019
+* Outstanding Undergraduate Scholarship, Shanghai Jiaotong University, 2019
+* Samsung Scholarship, Shanghai Jiaotong University, 2018
+* First Prize in China Undergraduate Mathematical Contest in Modeling, Shanghai Division, 2018
 
 Related Courses 
 ------
-* EE382M: VLSI I
-  * Dr. Jacob Abraham 
-* EE382M: VLSI II 
-  * Dr. Mark McDermott
-* EE382M: Advanced Issues in VLSI CAD \& Optimizations
-  * Dr. David Pan 
-* EE382C: Multicore Computing                   
-  * Dr. Vijay Garg
-* EE382N: High-Speed Computer Arithmetic I
-  * Dr. Earl Swartzlander
-* EE382M: VLSI Physical Design Automation
-  * Dr. David Pan
-* EE381K: Convex Optimization
+* EE382M-26: VLSI CAD and Optimization
+  * Dr. David Z. Pan
+* EE381V: Combinatorial Optimization
   * Dr. Constantine Caramanis
-* EE380L: Engineer Programming languages
-  * Dr. Craig Chase
-* EE380L: Data Mining                           
-  * Dr. Joydeep Ghosh
-* CS383C: Numerical Analysis: Linear Algebra
-  * Dr. George Biros
+* EE381V: Advanced Topics in Computer Vision
+  * Dr. Zhangyang (Atlas) Wang
+* EE382N 20-COMP ARCH: PARALLISM/LOCLTY
+  * Dr. Mattan Erez
+* EE381K: Convex Optimization (in progress)
+  * Dr. Constantine Caramanis
+* EE382M: VLSI I (in progress)
+  * Dr. David Z. Pan
