@@ -31,14 +31,14 @@ Work experience
 Skills
 ------
 * Programming languages
-  * Python (PyTorch \& Tensorflow)
+  * Python (PyTorch & Tensorflow)
   * C++
   * Verilog
 
 Awards and Honors
 ------
-* Shanghai Outstanding Graduate, shanghai, 2020
-* Hongyi Scholarship, 2019
+* Shanghai Outstanding Graduate, Shanghai, 2020
+* Hongyi Scholarship, Shanghai Jiaotong University, 2019
 * Outstanding Undergraduate Scholarship, Shanghai Jiaotong University, 2019
 * Samsung Scholarship, Shanghai Jiaotong University, 2018
 * First Prize in China Undergraduate Mathematical Contest in Modeling, Shanghai Division, 2018
