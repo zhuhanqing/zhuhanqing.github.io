@@ -14,10 +14,15 @@ You can also find my articles on <a href="https://scholar.google.com/citations?u
 Conference Papers
 ======
 * 2021
-  ### C2. [Towards Memory-Efficient Neural Networks via Multi-Level in situ Generation](https://arxiv.org/abs/2108.11430)
+  ### C3. [Towards Memory-Efficient Neural Networks via Multi-Level in situ Generation](https://arxiv.org/abs/2108.11430)
    * accepted \| <a href="/publications/papers/ML_ICCV2021_Gu.pdf" style="color:#3793ae">preprint</a>
    * Jiaqi Gu, **Hanqing Zhu**, Chenghao Feng, Mingjie Liu, Zixuan Jiang, Ray T. Chen, and David  Z. Pan
    * International Conference on Computer Vision (ICCV), Oct. 10-17, 2021. <br>
+
+  ### C2. Experimental Demonstration of a WDM-based Integrated Optical Decoder for Compact Optical Computing
+   * <a href="/publications/papers/ONN_CLEO2021_Gu.pdf" style="color:#3793ae">preprint</a>
+   * Chenghao Feng, Jiaqi Gu, **Hanqing Zhu**, David  Z. Pan, and Ray T. Chen
+   * Conference on Lasers and Electro-Optics (CLEO), Virtual Conference, May. 11-13, 2021. <br>
 
 * 2020
   ### C1. [ROQ: A Noise-Aware Quantization Scheme Towards Robust Optical Neural Networks with Low-bit Controls](https://doi.org/10.23919/DATE48585.2020.9116521)
