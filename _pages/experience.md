@@ -12,8 +12,3 @@ author_profile: true
   * ECE department, University of Texas at Austin
   * August 2020 - Present, Austin, TX
 
-* **Shanghai Jiaotong University, China**
-  * Research Assistant 
-  * Microelectronics department, Shanghai Jiaotong University 
-  * December 2018 - August 2020, Shanghai, China
-
