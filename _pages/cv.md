@@ -37,7 +37,7 @@ Skills
 
 Awards and Honors
 ------
-* DAC Young Fellow, DAC, 2021
+* DAC Young Fellow, 58th IEEE/ACM Design Automation Conference (DAC), 2021
 * Shanghai Outstanding Graduate, Shanghai, 2020
 * Hongyi Scholarship, Shanghai Jiaotong University, 2019
 * Outstanding Undergraduate Scholarship, Shanghai Jiaotong University, 2019
