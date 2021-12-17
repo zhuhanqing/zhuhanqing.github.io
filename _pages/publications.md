@@ -14,14 +14,14 @@ You can also find my articles on <a href="https://scholar.google.com/citations?u
 Conference Papers
 ======
 * 2022
-  ### C5. ELight: Enabling Efficient Photonic In-Memory Neurocomputing with Life Enhancement
-   * accepted \| <a href="https://arxiv.org/abs/2112.08512" style="color:#3793ae">preprint</a>
+  ### C5. [ELight: Enabling Efficient Photonic In-Memory Neurocomputing with Life Enhancement](https://arxiv.org/abs/2112.08512)
+   * accepted \| <a href="/publications/papers/ONN_ASPDAC2022_Zhu.pdf" style="color:#3793ae">preprint</a>
    * **Hanqing Zhu**, Jiaqi Gu, Chenghao Feng, Mingjie Liu, Zixuan Jiang, , Ray T. Chen, and David  Z. Pan
    * IEEE/ACM Asia and South Pacific Design Automation Conference (ASPDAC), Virtual Conference, Jan. 17-20, 2022 <br>
 
 * 2021
-  ### C4. L2ight: Enabling On-Chip Learning for Optical Neural Networks via Efficient in-situ Subspace Optimization
-   * accepted \| <a href="https://arxiv.org/abs/2110.14807" style="color:#3793ae">preprint</a>
+  ### C4. [L2ight: Enabling On-Chip Learning for Optical Neural Networks via Efficient in-situ Subspace Optimization](href="https://arxiv.org/abs/2110.14807)
+   * accepted \| <a href="/publications/papers/ML_Neurips2021_Gu.pdf" style="color:#3793ae">preprint</a>
    * Jiaqi Gu, **Hanqing Zhu**, Chenghao Feng, Zixuan Jiang, Ray T. Chen, and David  Z. Pan
    * Conference on Neural Information Processing Systems (NeurIPS), Dec. 7-10, 2021. <br>
   
@@ -40,3 +40,11 @@ Conference Papers
      * accepted \| <a href="/publications/files/ONN_DATE2020_Gu.pdf" style="color:#3793ae">preprint</a>
      * Jiaqi Gu, Zheng Zhao, Chenghao Feng, **Hanqing Zhu**, Ray T. Chen and David Z. Pan
      * IEEE Design, Automation & Test in Europe Conference & Exhibition (DATE), Grenoble, France, Mar. 09-13, 2020.<br>
+
+Journal Papers
+======
+* 2021
+  ### J1. [Silicon photonic subspace neural chip for hardware-efficient deep learning](https://arxiv.org/abs/2111.06705)
+   * preprint
+   * Chenghao Feng*, Jiaqi Gu, **Hanqing Zhu**, Zhoufeng Ying, Zheng Zhao, David Z. Pan and Ray T. Chen
+   * arXiv preprint 2111.06705. <br>
