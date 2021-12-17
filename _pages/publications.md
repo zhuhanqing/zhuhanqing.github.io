@@ -21,7 +21,7 @@ Conference Papers
 
 * 2021
   ### C4. L2ight: Enabling On-Chip Learning for Optical Neural Networks via Efficient in-situ Subspace Optimization
-   * accepted \|
+   * accepted \|<a href="https://arxiv.org/abs/2110.14807" style="color:#3793ae">preprint</a>
    * Jiaqi Gu, **Hanqing Zhu**, Chenghao Feng, Zixuan Jiang, Ray T. Chen, and David  Z. Pan
    * Conference on Neural Information Processing Systems (NeurIPS), Dec. 7-10, 2021. <br>
   
