@@ -15,7 +15,7 @@ Conference Papers
 ======
 * 2022
   ### C5. ELight: Enabling Efficient Photonic In-Memory Neurocomputing with Life Enhancement
-   * accepted \| <a href="/publications/papers/ONN_ASPDAC2022_Zhu.pdf" style="color:#3793ae">preprint</a>
+   * accepted \| <a href="https://arxiv.org/abs/2112.08512" style="color:#3793ae">preprint</a>
    * **Hanqing Zhu**, Jiaqi Gu, Chenghao Feng, Mingjie Liu, Zixuan Jiang, , Ray T. Chen, and David  Z. Pan
    * IEEE/ACM Asia and South Pacific Design Automation Conference (ASPDAC), Virtual Conference, Jan. 17-20, 2022 <br>
 
@@ -37,6 +37,6 @@ Conference Papers
 
 * 2020
   ### C1. [ROQ: A Noise-Aware Quantization Scheme Towards Robust Optical Neural Networks with Low-bit Controls](https://doi.org/10.23919/DATE48585.2020.9116521)
-     * <a href="/publications/papers/ONN_DATE2020_Gu.pdf" style="color:#3793ae">preprint</a> \| <a href="/publications/papers/ONN_DATE2020_Gu_slides.pdf" style="color:#3793ae">slides</a> \| <a href="/publications/papers/ONN_DATE2020_Gu_poster.pdf" style="color:#3793ae">poster</a>
+     * <a href="/publications/papers/ONN_DATE2020_Gu.pdf" style="color:#3793ae">preprint</a>
      * Jiaqi Gu, Zheng Zhao, Chenghao Feng, **Hanqing Zhu**, Ray T. Chen and David Z. Pan
      * IEEE Design, Automation & Test in Europe Conference & Exhibition (DATE), Grenoble, France, Mar. 09-13, 2020.<br>
