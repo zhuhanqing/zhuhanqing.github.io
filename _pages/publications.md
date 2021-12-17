@@ -20,7 +20,7 @@ Conference Papers
    * IEEE/ACM Asia and South Pacific Design Automation Conference (ASPDAC), Virtual Conference, Jan. 17-20, 2022 <br>
 
 * 2021
-  ### C4. [L2ight: Enabling On-Chip Learning for Optical Neural Networks via Efficient in-situ Subspace Optimization](href="https://arxiv.org/abs/2110.14807)
+  ### C4. [L2ight: Enabling On-Chip Learning for Optical Neural Networks via Efficient in-situ Subspace Optimization](https://arxiv.org/abs/2110.14807)
    * accepted \| <a href="/_publications/papers/ML_Neurips2021_Gu.pdf" style="color:#3793ae">preprint</a>
    * Jiaqi Gu, **Hanqing Zhu**, Chenghao Feng, Zixuan Jiang, Ray T. Chen, and David  Z. Pan
    * Conference on Neural Information Processing Systems (NeurIPS), Dec. 7-10, 2021. <br>
@@ -46,5 +46,5 @@ Journal Papers
 * 2021
   ### J1. [Silicon photonic subspace neural chip for hardware-efficient deep learning](https://arxiv.org/abs/2111.06705)
    * preprint
-   * Chenghao Feng*, Jiaqi Gu, **Hanqing Zhu**, Zhoufeng Ying, Zheng Zhao, David Z. Pan and Ray T. Chen
+   * Chenghao Feng*, Jiaqi Gu*, **Hanqing Zhu**, Zhoufeng Ying, Zheng Zhao, David Z. Pan and Ray T. Chen
    * arXiv preprint 2111.06705. <br>
