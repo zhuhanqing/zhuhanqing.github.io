@@ -31,12 +31,12 @@ Conference Papers
    * International Conference on Computer Vision (ICCV), Oct. 10-17, 2021. <br>
 
   ### C2. Experimental Demonstration of a WDM-based Integrated Optical Decoder for Compact Optical Computing
-   * <a href="/publications/files/ONN_CLEO2021_Gu.pdf" style="color:#3793ae">preprint</a>
+   * accepted \| <a href="/publications/files/ONN_CLEO2021_Gu.pdf" style="color:#3793ae">preprint</a>
    * Chenghao Feng, Jiaqi Gu, **Hanqing Zhu**, David  Z. Pan, and Ray T. Chen
    * Conference on Lasers and Electro-Optics (CLEO), Virtual Conference, May. 11-13, 2021. <br>
 
 * 2020
   ### C1. [ROQ: A Noise-Aware Quantization Scheme Towards Robust Optical Neural Networks with Low-bit Controls](https://doi.org/10.23919/DATE48585.2020.9116521)
-     * <a href="/publications/files/ONN_DATE2020_Gu.pdf" style="color:#3793ae">preprint</a>
+     * accepted \| <a href="/publications/files/ONN_DATE2020_Gu.pdf" style="color:#3793ae">preprint</a>
      * Jiaqi Gu, Zheng Zhao, Chenghao Feng, **Hanqing Zhu**, Ray T. Chen and David Z. Pan
      * IEEE Design, Automation & Test in Europe Conference & Exhibition (DATE), Grenoble, France, Mar. 09-13, 2020.<br>
