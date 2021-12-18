@@ -18,7 +18,7 @@ PhD student, Dept. of Electrical and Computer Engineering @ UT Austin
 
 Education
 ------
-* Ph.D. in University of Texas at Austin (GPA: 3.92/4.00), Texas, US, 2025(expected)
+* Ph.D. in University of Texas at Austin (GPA: 3.95/4.00), Texas, US, 2025(expected)
 * B.Eng. in Shanghai Jiaotong University (GPA: 3.81/4.00, Rank: 2/57), Shanghai, China, 2020
 * Summer School (Full schoolarship) in Peter the Great St. Petersburg Polytechnic University, St. Petersburg, Russia. 2018
 
@@ -54,7 +54,7 @@ Related Courses
   * Dr. Zhangyang (Atlas) Wang
 * EE382N 20-COMP ARCH: PARALLISM/LOCLTY
   * Dr. Mattan Erez
-* EE381K: Convex Optimization (in progress)
+* EE381K: Convex Optimization
   * Dr. Constantine Caramanis
-* EE382M: VLSI I (in progress)
+* EE382M: VLSI I
   * Dr. David Z. Pan
