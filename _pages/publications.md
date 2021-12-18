@@ -14,12 +14,17 @@ You can also find my articles on <a href="https://scholar.google.com/citations?u
 Conference Papers
 ======
 * 2022
-  ### C5. [ELight: Enabling Efficient Photonic In-Memory Neurocomputing with Life Enhancement](https://arxiv.org/abs/2112.08512)
+  ### C6. [ELight: Enabling Efficient Photonic In-Memory Neurocomputing with Life Enhancement](https://arxiv.org/abs/2112.08512)
    * accepted \| <a href="/_publications/papers/ONN_ASPDAC2022_Zhu.pdf" style="color:#3793ae">preprint</a>
    * **Hanqing Zhu**, Jiaqi Gu, Chenghao Feng, Mingjie Liu, Zixuan Jiang, , Ray T. Chen, and David  Z. Pan
    * IEEE/ACM Asia and South Pacific Design Automation Conference (ASPDAC), Virtual Conference, Jan. 17-20, 2022 <br>
 
 * 2021
+  ### C5 [ADEPT: Automatic Differentiable DEsign of Photonic Tensor Cores](https://arxiv.org/abs/2112.08703)
+   * preprint
+   * **Jiaqi Gu**, Hanqing Zhu, Chenghao Feng, Zixuan Jiang, Mingjie Liu, Shuhan Zhang, Ray T. Chen, and David  Z. Pan
+   * arXiv preprint 2112.08703. <br>
+  
   ### C4. [L2ight: Enabling On-Chip Learning for Optical Neural Networks via Efficient in-situ Subspace Optimization](https://arxiv.org/abs/2110.14807)
    * accepted \| <a href="/_publications/papers/ML_Neurips2021_Gu.pdf" style="color:#3793ae">preprint</a>
    * Jiaqi Gu, **Hanqing Zhu**, Chenghao Feng, Zixuan Jiang, Ray T. Chen, and David  Z. Pan
