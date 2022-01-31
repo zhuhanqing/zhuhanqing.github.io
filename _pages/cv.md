@@ -42,7 +42,14 @@ Awards and Honors
 * Hongyi Scholarship, Shanghai Jiaotong University, 2019
 * Outstanding Undergraduate Scholarship, Shanghai Jiaotong University, 2019
 * Samsung Scholarship, Shanghai Jiaotong University, 2018
+* Zhiyuan College Honors Scholarship, Shanghai Jiaotong University, 2018
 * First Prize in China Undergraduate Mathematical Contest in Modeling, Shanghai Division, 2018
+* Academic Excellence Scholarship, Shanghai Jiaotong University, 2017,2018,2019
+
+Professional Service 
+------
+* Reviewer
+ * IEEE Transactions on Neural Networks and Learning Systems (TNNLS)
 
 Related Courses 
 ------
@@ -58,3 +65,5 @@ Related Courses
   * Dr. Constantine Caramanis
 * EE382M: VLSI I
   * Dr. David Z. Pan
+* EE382M: VLSI Physical Design Automation (In progress)
+  * Dr. David Pan
