@@ -27,7 +27,6 @@ Work experience
 * University of Texas at Austin (Aug 2020 - Present) 
   * University of Texas at Austin, Austin, TX
 
-
 Skills
 ------
 * Programming languages
@@ -49,7 +48,7 @@ Awards and Honors
 Professional Service 
 ------
 * Reviewer
- * IEEE Transactions on Neural Networks and Learning Systems (TNNLS)
+  * IEEE Transactions on Neural Networks and Learning Systems (TNNLS'21)
 
 Related Courses 
 ------
