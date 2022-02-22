@@ -48,7 +48,8 @@ Awards and Honors
 Professional Service 
 ------
 * Reviewer
-  * IEEE Transactions on Neural Networks and Learning Systems (TNNLS'21)
+  * IEEE Transactions on Neural Networks and Learning Systems (TNNLS'22)
+  * IEEE International Conference on Artificial Intelligence Circuits and Systems (AICAS'22)
 
 Related Courses 
 ------
