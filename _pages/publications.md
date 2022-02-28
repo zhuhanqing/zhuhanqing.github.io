@@ -17,7 +17,7 @@ Conference Papers
   ### C5 [ADEPT: Automatic Differentiable DEsign of Photonic Tensor Cores](https://arxiv.org/abs/2112.08703)
    * preprint
    * Jiaqi Gu, **Hanqing Zhu**, Chenghao Feng, Zixuan Jiang, Mingjie Liu, Shuhan Zhang, Ray T. Chen, and David  Z. Pan
-   * ACM/IEEE Design Automation Conference (DAC), San Francisco, CA, Jul 10-14, 2022. <br>
+   * ACM/IEEE Design Automation Conference (DAC), San Francisco, CA, Jul. 10-14, 2022. <br>
 
   ### C6. [ELight: Enabling Efficient Photonic In-Memory Neurocomputing with Life Enhancement](https://arxiv.org/abs/2112.08512)
    * accepted \| <a href="/_publications/papers/ONN_ASPDAC2022_Zhu.pdf" style="color:#3793ae">preprint</a>
@@ -39,7 +39,7 @@ Conference Papers
   ### C2. Experimental Demonstration of a WDM-based Integrated Optical Decoder for Compact Optical Computing
    * accepted \| <a href="/publications/files/ONN_CLEO2021_Gu.pdf" style="color:#3793ae">preprint</a>
    * Chenghao Feng, Jiaqi Gu, **Hanqing Zhu**, David  Z. Pan, and Ray T. Chen
-   * Conference on Lasers and Electro-Optics (CLEO), Virtual Conference, May. 11-13, 2021. <br>
+   * Conference on Lasers and Electro-Optics (CLEO), Virtual Conference, May 11-13, 2021. <br>
 
 * 2020
   ### C1. [ROQ: A Noise-Aware Quantization Scheme Towards Robust Optical Neural Networks with Low-bit Controls](https://doi.org/10.23919/DATE48585.2020.9116521)
