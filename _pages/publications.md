@@ -19,7 +19,7 @@ Conference Papers
    * Jiaqi Gu, **Hanqing Zhu**, Chenghao Feng, Zixuan Jiang, Mingjie Liu, Shuhan Zhang, Ray T. Chen, and David  Z. Pan
    * ACM/IEEE Design Automation Conference (DAC), San Francisco, CA, Jul. 10-14, 2022. <br>
 
-  ### C6. [ELight: Enabling Efficient Photonic In-Memory Neurocomputing with Life Enhancement](https://arxiv.org/abs/2112.08512)
+  ### C6. [ELight: Enabling Efficient Photonic In-Memory Neurocomputing with Life Enhancement](https://ieeexplore.ieee.org/document/9712497)
    * accepted \| <a href="/_publications/papers/ONN_ASPDAC2022_Zhu.pdf" style="color:#3793ae">preprint</a>
    * **Hanqing Zhu**, Jiaqi Gu, Chenghao Feng, Mingjie Liu, Zixuan Jiang, , Ray T. Chen, and David  Z. Pan
    * IEEE/ACM Asia and South Pacific Design Automation Conference (ASPDAC), Virtual Conference, Jan. 17-20, 2022 <br>
