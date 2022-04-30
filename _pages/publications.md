@@ -14,22 +14,22 @@ You can also find my articles on <a href="https://scholar.google.com/citations?u
 Conference Papers
 ======
 * 2022
-  ### C7. [Optoelectronically Interconnected Hardware-Efficient Deep Learning using Silicon Photonic Chips](https://doi.org/10.1117/12.2616217)
+  ### C8. [Optoelectronically Interconnected Hardware-Efficient Deep Learning using Silicon Photonic Chips](https://doi.org/10.1117/12.2616217)
    * preprint \| accepted
    * Chenghao Feng, Jiaqi Gu, **Hanqing Zhu**, Zhoufeng Ying, Zheng Zhao, David Z. Pan, and Ray T. Chen
    * SPIE PC12007, Optical Interconnects XXII, San Francisco, CA, Mar 5, 2022. <br>
 
-  ### C6. [Design and Experimental Demonstration of A Hardware-Efficient Integrated Optical Neural Network](https://doi.org/10.1117/12.2610255)
+  ### C7. [Design and Experimental Demonstration of A Hardware-Efficient Integrated Optical Neural Network](https://doi.org/10.1117/12.2610255)
    * preprint \| accepted
    * Chenghao Feng, Jiaqi Gu, **Hanqing Zhu**, David Z. Pan, and Ray T. Chen
    * SPIE PC12005, Smart Photonic and Optoelectronic Integrated Circuits, San Francisco, CA, Mar 5, 2022. <br>
 
-  ### C5 [ADEPT: Automatic Differentiable DEsign of Photonic Tensor Cores](https://arxiv.org/abs/2112.08703)
-   * preprint
+  ### C6 [ADEPT: Automatic Differentiable DEsign of Photonic Tensor Cores](https://arxiv.org/abs/2112.08703)
+   * preprint \| accepted
    * Jiaqi Gu, **Hanqing Zhu**, Chenghao Feng, Zixuan Jiang, Mingjie Liu, Shuhan Zhang, Ray T. Chen, and David  Z. Pan
    * ACM/IEEE Design Automation Conference (DAC), San Francisco, CA, Jul. 10-14, 2022. <br>
 
-  ### C6. [ELight: Enabling Efficient Photonic In-Memory Neurocomputing with Life Enhancement](https://ieeexplore.ieee.org/document/9712497)
+  ### C5. [ELight: Enabling Efficient Photonic In-Memory Neurocomputing with Life Enhancement](https://ieeexplore.ieee.org/document/9712497)
    * accepted \| <a href="/_publications/papers/ONN_ASPDAC2022_Zhu.pdf" style="color:#3793ae">preprint</a>
    * **Hanqing Zhu**, Jiaqi Gu, Chenghao Feng, Mingjie Liu, Zixuan Jiang, , Ray T. Chen, and David  Z. Pan
    * IEEE/ACM Asia and South Pacific Design Automation Conference (ASPDAC), Virtual Conference, Jan. 17-20, 2022 <br>
