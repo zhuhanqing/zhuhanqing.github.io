@@ -14,6 +14,16 @@ You can also find my articles on <a href="https://scholar.google.com/citations?u
 Conference Papers
 ======
 * 2022
+  ### C7. [Optoelectronically Interconnected Hardware-Efficient Deep Learning using Silicon Photonic Chips](https://doi.org/10.1117/12.2616217)
+   * preprint \| accepted
+   * Chenghao Feng, Jiaqi Gu, **Hanqing Zhu**, Zhoufeng Ying, Zheng Zhao, David Z. Pan, and Ray T. Chen
+   * SPIE PC12007, Optical Interconnects XXII, San Francisco, CA, Mar 5, 2022. <br>
+
+  ### C6. [Design and Experimental Demonstration of A Hardware-Efficient Integrated Optical Neural Network](https://doi.org/10.1117/12.2610255)
+   * preprint \| accepted
+   * Chenghao Feng, Jiaqi Gu, **Hanqing Zhu**, David Z. Pan, and Ray T. Chen
+   * SPIE PC12005, Smart Photonic and Optoelectronic Integrated Circuits, San Francisco, CA, Mar 5, 2022. <br>
+
   ### C5 [ADEPT: Automatic Differentiable DEsign of Photonic Tensor Cores](https://arxiv.org/abs/2112.08703)
    * preprint
    * Jiaqi Gu, **Hanqing Zhu**, Chenghao Feng, Zixuan Jiang, Mingjie Liu, Shuhan Zhang, Ray T. Chen, and David  Z. Pan
@@ -49,6 +59,12 @@ Conference Papers
 
 Journal Papers
 ======
+* 2022
+  ### J2. [Light in AI: Toward Efficient Neurocomputing with Optical Neural Networks - A Tutorial](https://doi.org/10.1109/TCSII.2022.3171170)
+   * accepted
+   * Jiaqi Gu, Chenghao Feng, **Hanqing Zhu**, Ray T. Chen and David Z. Pan
+   * IEEE Transactions on Circuits and Systems--II: Express Briefs (TCAS-II), Apr. 26, 2022. <br>
+
 * 2021
   ### J1. [Silicon photonic subspace neural chip for hardware-efficient deep learning](https://arxiv.org/abs/2111.06705)
    * preprint
