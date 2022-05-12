@@ -12,3 +12,5 @@ I am currently a Ph.D. student in the Department of Electrical and Computer Engi
 Previously, I received the B.Eng. degree in microelectronics science and engineering from [Shanghai Jiaotong University](https://en.sjtu.edu.cn/) with highest honor, in 2020.
 
 My current research interests primarily include efficient and robust AI computing with emerging technology (photonics) and VLSI design automation.
+
+<img src="../images/justforfun_1.gif" height="500" width="1000">
