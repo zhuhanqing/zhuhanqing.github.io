@@ -30,7 +30,7 @@ Work experience
 Skills
 ------
 * Programming languages
-  * Python (PyTorch & Tensorflow)
+  * Python (PyTorch)
   * C++
   * Verilog
 
@@ -48,6 +48,8 @@ Awards and Honors
 Professional Service 
 ------
 * Reviewer
+  * Nature Photonics
+  * Photonic Network Communications
   * IEEE Transactions on Neural Networks and Learning Systems (TNNLS'22)
   * IEEE International Conference on Artificial Intelligence Circuits and Systems (AICAS'22)
 
@@ -65,5 +67,5 @@ Related Courses
   * Dr. Constantine Caramanis
 * EE382M: VLSI I
   * Dr. David Z. Pan
-* EE382M: VLSI Physical Design Automation (In progress)
+* EE382M: VLSI Physical Design Automation
   * Dr. David Pan
