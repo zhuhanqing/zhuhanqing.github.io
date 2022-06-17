@@ -47,13 +47,13 @@ Conference Papers
    * International Conference on Computer Vision (ICCV), Oct. 10-17, 2021. <br>
 
   ### C2. Experimental Demonstration of a WDM-based Integrated Optical Decoder for Compact Optical Computing
-   * accepted \| <a href="/files/publications/ONN_CLEO2021_Gu.pdf" style="color:#3793ae">preprint</a>
+   * accepted \| <a href="/files/papers/ONN_CLEO2021_Gu.pdf" style="color:#3793ae">preprint</a>
    * Chenghao Feng, Jiaqi Gu, **Hanqing Zhu**, David  Z. Pan, and Ray T. Chen
    * Conference on Lasers and Electro-Optics (CLEO), Virtual Conference, May 11-13, 2021. <br>
 
 * 2020
   ### C1. [ROQ: A Noise-Aware Quantization Scheme Towards Robust Optical Neural Networks with Low-bit Controls](https://doi.org/10.23919/DATE48585.2020.9116521)
-     * accepted \| <a href="/files/publications/ONN_DATE2020_Gu.pdf" style="color:#3793ae">preprint</a>
+     * accepted \| <a href="/files/papers/ONN_DATE2020_Gu.pdf" style="color:#3793ae">preprint</a>
      * Jiaqi Gu, Zheng Zhao, Chenghao Feng, **Hanqing Zhu**, Ray T. Chen and David Z. Pan
      * IEEE Design, Automation & Test in Europe Conference & Exhibition (DATE), Grenoble, France, Mar. 09-13, 2020.<br>
 
@@ -61,7 +61,7 @@ Journal Papers
 ======
 * 2022
   ### J2. [ELight: Towards Efficient and Aging-Resilient Photonic In-Memory Neurocomputing](https://ieeexplore.ieee.org/document/9794694)
-   * accepted \| <a href="/files/publications/ONN_TCAD2022_Zhu.pdf" style="color:#3793ae">preprint</a>
+   * accepted \| <a href="/files/papers/ONN_TCAD2022_Zhu.pdf" style="color:#3793ae">preprint</a>
    * **Hanqing Zhu**, Jiaqi Gu, Chenghao Feng, Mingjie Liu, Zixuan Jiang, Ray T. Chen and David Z. Pan
    * IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD), May, 2022. <br>
    
