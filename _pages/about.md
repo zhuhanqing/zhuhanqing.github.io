@@ -13,4 +13,4 @@ Previously, I received the B.Eng. degree in microelectronics science and enginee
 
 My current research interests primarily include efficient and robust AI computing with emerging technology (photonics) and VLSI design automation.
 
-<img src="../images/justforfun_1.gif" height="500" width="1000">
+<img src="../images/justforfun_2.gif" height="500" width="500">
