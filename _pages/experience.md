@@ -5,7 +5,7 @@ permalink: /experience/
 author_profile: true
 ---
 
-{% include base_path %}s
+{% include base_path %}
 
 * **Google, USA**
   * Student Researcher Intern
