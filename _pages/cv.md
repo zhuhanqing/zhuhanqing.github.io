@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-[PDF](/files/resume/CV_ZHQ_06_2022.pdf){: .btn}
+[PDF](/files/resume/CV_ZHQ_07_2022.pdf){: .btn}
 
 ## Hanqing Zhu
 {: .text-center}
@@ -24,8 +24,10 @@ Education
 
 Work experience
 ------
-* University of Texas at Austin (Aug 2020 - Present) 
-  * University of Texas at Austin, Austin, TX
+* Google LLC (Jul. 2022 - Present)
+  * Student Researcher Intern, Google Brain Team, Mountain View, CA
+* University of Texas at Austin (Aug. 2020 - Present) 
+  * Graduate Research Assistant, UTDA Lab, Austin, TX
 
 Skills
 ------
