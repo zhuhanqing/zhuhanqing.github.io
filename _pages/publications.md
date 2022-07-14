@@ -14,6 +14,11 @@ You can also find my articles on <a href="https://scholar.google.com/citations?u
 Conference Papers
 ======
 * 2022
+  ### C9. Fuse and Mix: MACAM-Enabled Analog Activation for Energy-Efficient Neural Acceleration
+    * accepted
+    * **Hanqing Zhu**, Keren Zhu, Jiaqi Gu, Harrison Jin, Ray Chen, Jean Anne Incorvia and David Z. Pan
+    * International Conference on Computer-aided Design (ICCAD), San Diego, CA, Oct. 30, 2022
+
   ### C8. [Optoelectronically Interconnected Hardware-Efficient Deep Learning using Silicon Photonic Chips](https://doi.org/10.1117/12.2616217)
    * accepted
    * Chenghao Feng, Jiaqi Gu, **Hanqing Zhu**, Zhoufeng Ying, Zheng Zhao, David Z. Pan, and Ray T. Chen
@@ -31,7 +36,7 @@ Conference Papers
 
   ### C5. [ELight: Enabling Efficient Photonic In-Memory Neurocomputing with Life Enhancement](https://ieeexplore.ieee.org/document/9712497)
    * accepted \| <a href="/files/papers/ONN_ASPDAC2022_Zhu.pdf" style="color:#3793ae">preprint</a>
-   * **Hanqing Zhu**, Jiaqi Gu, Chenghao Feng, Mingjie Liu, Zixuan Jiang, , Ray T. Chen, and David  Z. Pan
+   * **Hanqing Zhu**, Jiaqi Gu, Chenghao Feng, Mingjie Liu, Zixuan Jiang, Ray T. Chen, and David  Z. Pan
    * IEEE/ACM Asia and South Pacific Design Automation Conference (ASPDAC), Virtual Conference, Jan. 17-20, 2022 <br>
 
 * 2021
