@@ -25,7 +25,7 @@ Education
 Work experience
 ------
 * Google LLC (Jul. 2022 - Present)
-  * Student Researcher Intern, Google Brain Team, Mountain View, CA
+  * Student Researcher, Google Brain Team, Mountain View, CA
 * University of Texas at Austin (Aug. 2020 - Present) 
   * Graduate Research Assistant, UTDA Lab, Austin, TX
 
@@ -38,6 +38,7 @@ Skills
 
 Awards and Honors
 ------
+
 * DAC Young Fellow, 58th IEEE/ACM Design Automation Conference (DAC), 2021
 * Shanghai Outstanding Graduate, Shanghai, 2020
 * Hongyi Scholarship, Shanghai Jiaotong University, 2019
@@ -47,16 +48,19 @@ Awards and Honors
 * First Prize in China Undergraduate Mathematical Contest in Modeling, Shanghai Division, 2018
 * Academic Excellence Scholarship, Shanghai Jiaotong University, 2017,2018,2019
 
-Professional Service 
+Professional Service
 ------
+
 * Reviewer
   * Nature Photonics
   * Photonic Network Communications
+  * IEEE/ACM International Conference on Computer-Aided Design (ICCAD'22)
   * IEEE Transactions on Neural Networks and Learning Systems (TNNLS'22)
   * IEEE International Conference on Artificial Intelligence Circuits and Systems (AICAS'22)
 
 Related Courses 
 ------
+
 * EE382M-26: VLSI CAD and Optimization
   * Dr. David Z. Pan
 * EE381V: Combinatorial Optimization
