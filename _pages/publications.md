@@ -14,7 +14,7 @@ You can also find my articles on <a href="https://scholar.google.com/citations?u
 Conference Papers
 ======
 * 2022
-  ### C9. Fuse and Mix: MACAM-Enabled Analog Activation for Energy-Efficient Neural Acceleration
+  ### C9. [Fuse and Mix: MACAM-Enabled Analog Activation for Energy-Efficient Neural Acceleration](https://arxiv.org/abs/2208.08099)
     * accepted
     * **Hanqing Zhu**, Keren Zhu, Jiaqi Gu, Harrison Jin, Ray Chen, Jean Anne Incorvia and David Z. Pan
     * IEEE/ACM International Conference on Computer-Aided Design (ICCAD), Oct. 30 - Nov. 03, 2022.
