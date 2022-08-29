@@ -12,33 +12,42 @@ redirect_from:
 [PDF](/files/resume/CV_ZHQ_07_2022.pdf){: .btn}
 
 ## Hanqing Zhu
+
 {: .text-center}
 PhD student, Dept. of Electrical and Computer Engineering @ UT Austin
 {: .text-center}
 
-Education
+## Education
+
 ------
-* Ph.D. in University of Texas at Austin (GPA: 3.95/4.00), Texas, US, 2025(expected)
+
+* Ph.D. in the University of Texas at Austin (GPA: 3.95/4.00), Texas, US, 2025(expected)
 * B.Eng. in Shanghai Jiaotong University (GPA: 3.81/4.00, Rank: 2/57), Shanghai, China, 2020
 * Summer School (Full schoolarship) in Peter the Great St. Petersburg Polytechnic University, St. Petersburg, Russia. 2018
 
-Work experience
+## Work experience
+
 ------
+
 * Google LLC (Jul. 2022 - Present)
   * Student Researcher, Google Brain Team, Mountain View, CA
-* University of Texas at Austin (Aug. 2020 - Present) 
+* University of Texas at Austin (Aug. 2020 - Present)
   * Graduate Research Assistant, UTDA Lab, Austin, TX
 
-Skills
+## Skills
+
 ------
+
 * Programming languages
   * Python (PyTorch)
   * C++
   * Verilog
 
-Awards and Honors
+## Awards and Honors
+
 ------
 
+* Winner at Robert S. Hilbert Memorial Optical Design Competition, Synopsys, 2022
 * DAC Young Fellow, 58th IEEE/ACM Design Automation Conference (DAC), 2021
 * Shanghai Outstanding Graduate, Shanghai, 2020
 * Hongyi Scholarship, Shanghai Jiaotong University, 2019
@@ -48,7 +57,8 @@ Awards and Honors
 * First Prize in China Undergraduate Mathematical Contest in Modeling, Shanghai Division, 2018
 * Academic Excellence Scholarship, Shanghai Jiaotong University, 2017,2018,2019
 
-Professional Service
+## Professional Service
+
 ------
 
 * Reviewer
@@ -58,7 +68,8 @@ Professional Service
   * IEEE Transactions on Neural Networks and Learning Systems (TNNLS'22)
   * IEEE International Conference on Artificial Intelligence Circuits and Systems (AICAS'22)
 
-Related Courses 
+## Related Courses
+
 ------
 
 * EE382M-26: VLSI CAD and Optimization
