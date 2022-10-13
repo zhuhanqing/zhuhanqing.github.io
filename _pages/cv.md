@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-[PDF](/files/resume/CV_ZHQ_10_2022.pdf){: .btn}
+[PDF](/files/resume/CV_ZHQ.pdf){: .btn}
 
 ## Hanqing Zhu
 
