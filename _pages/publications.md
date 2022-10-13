@@ -17,7 +17,8 @@ Conference Papers
   ### C10. [NeurOLight: A Physics-Agnostic Neural Operator Enabling Parametric Photonic Device Simulation](http://arxiv.org/abs/2209.10098)
    * accepted
    * Jiaqi Gu, Zhengqi Gao, Chenghao Feng, **Hanqing Zhu**, Ray Chen, Duane S Boning and David Z. Pan
-   * Conference on Neural Information Processing Systems (NeurIPS), Nov 26 - Dec 4, 2022.<br>
+  * Conference on Neural Information Processing Systems (NeurIPS), Nov 26 - Dec 4, 2022.<br>
+  
   ### C9. [Fuse and Mix: MACAM-Enabled Analog Activation for Energy-Efficient Neural Acceleration](https://arxiv.org/abs/2208.08099)
     * accepted
     * **Hanqing Zhu**, Keren Zhu, Jiaqi Gu, Harrison Jin, Ray Chen, Jean Anne Incorvia and David Z. Pan
@@ -73,7 +74,6 @@ Journal Papers
    * <a href="/publications/papers/ONN_TCAD2022_Gu.pdf" style="color:#3793ae">preprint</a>
    * Jiaqi Gu, Chenghao Feng, **Hanqing Zhu**, Zheng Zhao, Zhoufeng Ying, Mingjie Liu, Ray T. Chen and David Z. Pan
    * IEEE Transaction on Computer-Aided Design of Integrated Circuits and Systems (TCAD), Jul, 2022.<br>
-   <img src="../images/ONN_TCAD2022_Gu_image.jpg" height="400" width="500">
   ### J2. [ELight: Towards Efficient and Aging-Resilient Photonic In-Memory Neurocomputing](https://ieeexplore.ieee.org/document/9794694)
    * accepted \| <a href="/files/papers/ONN_TCAD2022_Zhu.pdf" style="color:#3793ae">preprint</a>
    * **Hanqing Zhu**, Jiaqi Gu, Chenghao Feng, Mingjie Liu, Zixuan Jiang, Ray T. Chen and David Z. Pan

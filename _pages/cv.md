@@ -86,3 +86,5 @@ PhD student, Dept. of Electrical and Computer Engineering @ UT Austin
   * Dr. David Z. Pan
 * EE382M: VLSI Physical Design Automation
   * Dr. David Pan
+* EE382V: Cross-layer Machine Learning Algorithm/Hardware Co-design
+  * Dr. Mattan Erez and Dr. Michael Orshansky

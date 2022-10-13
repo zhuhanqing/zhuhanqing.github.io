@@ -8,7 +8,7 @@ author_profile: true
 {% include base_path %}
 
 * **Google, USA**
-  * Student Researcher Intern
+  * Student Researcher
   * Google Brain Team
   * July 2022 - Present
 
