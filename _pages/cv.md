@@ -64,6 +64,7 @@ PhD student, Dept. of Electrical and Computer Engineering @ UT Austin
 * Reviewer
   * Nature Photonics
   * Photonic Network Communications
+  * AAAI workshop on DL-Hardware Co-Design for AI Acceleration (AAAI'23)
   * IEEE/ACM International Conference on Computer-Aided Design (ICCAD'22)
   * IEEE Transactions on Neural Networks and Learning Systems (TNNLS'22)
   * IEEE International Conference on Artificial Intelligence Circuits and Systems (AICAS'22)
@@ -88,3 +89,7 @@ PhD student, Dept. of Electrical and Computer Engineering @ UT Austin
   * Dr. David Pan
 * EE382V: Cross-layer Machine Learning Algorithm/Hardware Co-design
   * Dr. Mattan Erez and Dr. Michael Orshansky
+* EE382M: Verification of Digital System
+  * Dr. Monica Farkash
+* ECE 382V SysML: Computer Systems and Machine Learning Interplay (on-going)
+  * Dr. Neeraja J. Yadwadkar

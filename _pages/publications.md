@@ -74,6 +74,7 @@ Journal Papers
    * <a href="/publications/papers/ONN_TCAD2022_Gu.pdf" style="color:#3793ae">preprint</a>
    * Jiaqi Gu, Chenghao Feng, **Hanqing Zhu**, Zheng Zhao, Zhoufeng Ying, Mingjie Liu, Ray T. Chen and David Z. Pan
    * IEEE Transaction on Computer-Aided Design of Integrated Circuits and Systems (TCAD), Jul, 2022.<br>
+  
   ### J2. [ELight: Towards Efficient and Aging-Resilient Photonic In-Memory Neurocomputing](https://ieeexplore.ieee.org/document/9794694)
    * accepted \| <a href="/files/papers/ONN_TCAD2022_Zhu.pdf" style="color:#3793ae">preprint</a>
    * **Hanqing Zhu**, Jiaqi Gu, Chenghao Feng, Mingjie Liu, Zixuan Jiang, Ray T. Chen and David Z. Pan

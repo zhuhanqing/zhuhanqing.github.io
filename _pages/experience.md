@@ -10,7 +10,7 @@ author_profile: true
 * **Google, USA**
   * Student Researcher
   * Google Brain Team
-  * July 2022 - Present
+  * July 2022 - Nov. 2022
 
 * **University of Texas at Austin, USA**
   * Research Assistant 
