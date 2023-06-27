@@ -13,11 +13,19 @@ You can also find my articles on <a href="https://scholar.google.com/citations?u
 
 Conference Papers
 ======
+* 2023
+  
+  ### C11. [DOTA: A Dynamically-Operated Photonic Tensor Core for Energy-Efficient Transformer Accelerator](https://arxiv.org/abs/2305.19533)
+   * preprint
+   * **Hanqing Zhu**, Jiaqi Gu, Hanrui Wang, Rongxing Tang, Zhekai Zhang, Chenghao Feng, Song Han, Ray T. Chen and David Z. Pan
+   * Conference on Machine Learning and Systems (MLSys) Systems for Next-Gen AI Paradigms (SNAP) Workshop, Miami, OL, Jun 4 - Jun 8, 2023.<br>
+  
+
 * 2022
   ### C10. [NeurOLight: A Physics-Agnostic Neural Operator Enabling Parametric Photonic Device Simulation](http://arxiv.org/abs/2209.10098)
    * accepted
    * Jiaqi Gu, Zhengqi Gao, Chenghao Feng, **Hanqing Zhu**, Ray Chen, Duane S Boning and David Z. Pan
-  * Conference on Neural Information Processing Systems (NeurIPS), Nov 26 - Dec 4, 2022.<br>
+   * Conference on Neural Information Processing Systems (NeurIPS), Nov 26 - Dec 4, 2022.<br>
   
   ### C9. [Fuse and Mix: MACAM-Enabled Analog Activation for Energy-Efficient Neural Acceleration](https://arxiv.org/abs/2208.08099)
     * accepted
@@ -70,6 +78,11 @@ Conference Papers
 Journal Papers
 ======
 * 2022
+
+   ### J4. [ A compact butterfly-style silicon photonic-electronic neural chip for hardware-efficient deep learning](https://pubs.acs.org/doi/abs/10.1021/acsphotonics.2c01188)
+   * accepeted
+   * Chenghao Feng*, Jiaqi Gu*, **Hanqing Zhu**, Zhoufeng Ying, Zheng Zhao, David Z. Pan and Ray T. Chen
+   * ACS Photonics, Nov 30, 2022.<br>
   ### J3. [SqueezeLight: A Multi-Operand Ring-Based Optical Neural Network with Cross-Layer Scalability](https://doi.org/10.1109/TCAD.2022.3189567)
    * <a href="/publications/papers/ONN_TCAD2022_Gu.pdf" style="color:#3793ae">preprint</a>
    * Jiaqi Gu, Chenghao Feng, **Hanqing Zhu**, Zheng Zhao, Zhoufeng Ying, Mingjie Liu, Ray T. Chen and David Z. Pan

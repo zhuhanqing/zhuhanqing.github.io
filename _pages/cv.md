@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-[PDF](/files/resume/CV_ZHQ.pdf){: .btn}
+[PDF](/files/resume/CV_ZHQ_06_2023.pdf){: .btn}
 
 ## Hanqing Zhu
 
@@ -29,7 +29,9 @@ PhD student, Dept. of Electrical and Computer Engineering @ UT Austin
 
 ------
 
-* Google LLC (Jul. 2022 - Present)
+* Lightelligencea Inc (May 2022 - Present)
+  * Software Research Intern, Software Team, Boston, MA
+* Google LLC (Jul. 2022 - Nov. 2022)
   * Student Researcher, Google Brain Team, Mountain View, CA
 * University of Texas at Austin (Aug. 2020 - Present)
   * Graduate Research Assistant, UTDA Lab, Austin, TX
@@ -47,6 +49,7 @@ PhD student, Dept. of Electrical and Computer Engineering @ UT Austin
 
 ------
 
+* MLSys Student Travel Award, MLSys, 2023
 * Winner at Robert S. Hilbert Memorial Optical Design Competition, Synopsys, 2022
 * DAC Young Fellow, 58th IEEE/ACM Design Automation Conference (DAC), 2021
 * Shanghai Outstanding Graduate, Shanghai, 2020
@@ -64,6 +67,7 @@ PhD student, Dept. of Electrical and Computer Engineering @ UT Austin
 * Reviewer
   * Nature Photonics
   * Photonic Network Communications
+  * Conference on Neural Information Processing Systems (NeurIPS'23)
   * AAAI workshop on DL-Hardware Co-Design for AI Acceleration (AAAI'23)
   * IEEE/ACM International Conference on Computer-Aided Design (ICCAD'22)
   * IEEE Transactions on Neural Networks and Learning Systems (TNNLS'22)

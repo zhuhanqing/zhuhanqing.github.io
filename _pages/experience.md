@@ -7,6 +7,11 @@ author_profile: true
 
 {% include base_path %}
 
+* **Lightelligence, USA**
+  * Software Research Intern
+  * Software Team
+  * May 2022 - Present
+
 * **Google, USA**
   * Student Researcher
   * Google Brain Team
