@@ -13,7 +13,7 @@ I work closely with Prof. [Jiaqi Gu](http://www.jqgu.net/) at ASU.
 
 Previously, I received the B.Eng. degree in microelectronics science and engineering from [Shanghai Jiaotong University](https://en.sjtu.edu.cn/) with highest honor, in 2020.
 
-My current research interests primarily include efficient and robust AI computing systems with emerging technology (photonics), efficient machine learning, and machine learning for VLSI design automation.
+My current research interests primarily include efficient and robust AI computing systems with emerging technology (photonics, post-CMOS), efficient machine learning, and machine learning for VLSI design automation.
 
 <div align=center>
 <img src="../images/justforfun_2.gif" height="500" width="500" />

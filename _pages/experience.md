@@ -10,7 +10,7 @@ author_profile: true
 * **Lightelligence, USA**
   * Software Research Intern
   * Software Team
-  * May 2022 - Present
+  * May 2023 - Sep. 2023
 
 * **Google, USA**
   * Student Researcher

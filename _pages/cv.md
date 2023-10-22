@@ -29,10 +29,12 @@ PhD student, Dept. of Electrical and Computer Engineering @ UT Austin
 
 ------
 
-* Lightelligencea Inc (May 2022 - Present)
+* Lightelligencea Inc (May 2023 - Sep. 2023)
   * Software Research Intern, Software Team, Boston, MA
+  * Project: Low-bit Noise-aware Training Framework for Photonic AI Accelerator
 * Google LLC (Jul. 2022 - Nov. 2022)
   * Student Researcher, Google Brain Team, Mountain View, CA
+  * Project: Integrate DREAMPlace in RL-based ASIC Macro Placement Flow.
 * University of Texas at Austin (Aug. 2020 - Present)
   * Graduate Research Assistant, UTDA Lab, Austin, TX
 
@@ -48,7 +50,7 @@ PhD student, Dept. of Electrical and Computer Engineering @ UT Austin
 ## Awards and Honors
 
 ------
-
+* 1st place at IEEE/ACM MLCAD 2023 FPGA Macro-Placement Contest, MLCAD, 2023
 * MLSys Student Travel Award, MLSys, 2023
 * Winner at Robert S. Hilbert Memorial Optical Design Competition, Synopsys, 2022
 * DAC Young Fellow, 58th IEEE/ACM Design Automation Conference (DAC), 2021
@@ -67,11 +69,13 @@ PhD student, Dept. of Electrical and Computer Engineering @ UT Austin
 * Reviewer
   * Nature Photonics
   * Photonic Network Communications
+  * International Conference on Learning Representations (ICLR'24)
   * Conference on Neural Information Processing Systems (NeurIPS'23)
   * AAAI workshop on DL-Hardware Co-Design for AI Acceleration (AAAI'23)
+  * Design Automation Conference (DAC'23)
   * IEEE/ACM International Conference on Computer-Aided Design (ICCAD'22)
   * IEEE Transactions on Neural Networks and Learning Systems (TNNLS'22)
-  * IEEE International Conference on Artificial Intelligence Circuits and Systems (AICAS'22)
+  * IEEE International Conference on Artificial Intelligence Circuits and Systems (AICAS'22, AICAS'23)
 
 ## Related Courses
 

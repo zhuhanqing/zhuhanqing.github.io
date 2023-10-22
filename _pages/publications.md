@@ -7,14 +7,22 @@ author_profile: true
 
 {% include base_path %}
 
-You can also find my articles on <a href="https://scholar.google.com/citations?user=myMcrNEAAAAJ">my Google Scholar profile</a>.
+You can also find my full-list articles on <a href="https://scholar.google.com/citations?user=myMcrNEAAAAJ">my Google Scholar profile</a>.
 {: .notice--info}
 
 
-Conference Papers
+Selected Conference Papers
 ======
 * 2023
-  
+  ### C13. DOTA: A Dynamically-Operated Photonic Tensor Core for Energy-Efficient Transformer Accelerator
+   * **Hanqing Zhu**, Jiaqi Gu, Hanrui Wang, Rongxing Tang, Zhekai Zhang, Chenghao Feng, Song Han, Ray T. Chen and David Z. Pan
+   * IEEE International Symposium on High-Performance Computer Architecture (HPCA), Edinburgh, Scotland, UK, Mar 2 - Mar 6, 2024.<br>
+
+  ### C12. Pre-RMSNorm and Pre-CRMSNorm Transformers: Equivalent and Efficient Pre-LN Transformers
+  * Zixuan Jiang, Jiaqi Gu, **Hanqing Zhu** and David Z. Pan
+  * Conference on Neural Information Processing Systems (NeurIPS), New Orleans, Louisiana, Dec 10 - Dec 16, 2023. **(Spotlight)**.<br>
+
+
   ### C11. [DOTA: A Dynamically-Operated Photonic Tensor Core for Energy-Efficient Transformer Accelerator](https://arxiv.org/abs/2305.19533)
    * preprint
    * **Hanqing Zhu**, Jiaqi Gu, Hanrui Wang, Rongxing Tang, Zhekai Zhang, Chenghao Feng, Song Han, Ray T. Chen and David Z. Pan
@@ -100,8 +108,3 @@ Journal Papers
 
 Preprint
 ======
-* 2021
-  ### P1. [Silicon photonic subspace neural chip for hardware-efficient deep learning](https://arxiv.org/abs/2111.06705)
-   * preprint
-   * Chenghao Feng*, Jiaqi Gu*, **Hanqing Zhu**, Zhoufeng Ying, Zheng Zhao, David Z. Pan and Ray T. Chen
-   * arXiv preprint 2111.06705. <br>
