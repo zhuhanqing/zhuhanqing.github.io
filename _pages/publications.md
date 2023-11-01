@@ -15,8 +15,9 @@ Selected Conference Papers
 ======
 * 2023
   ### C13. DOTA: A Dynamically-Operated Photonic Tensor Core for Energy-Efficient Transformer Accelerator
-   * **Hanqing Zhu**, Jiaqi Gu, Hanrui Wang, Rongxing Tang, Zhekai Zhang, Chenghao Feng, Song Han, Ray T. Chen and David Z. Pan
-   * IEEE International Symposium on High-Performance Computer Architecture (HPCA), Edinburgh, Scotland, UK, Mar 2 - Mar 6, 2024.<br>
+   * **Hanqing Zhu**, Jiaqi Gu, Hanrui Wang, Zixuan Jiang, Rongxing Tang, Zhekai Zhang, Chenghao Feng, Song Han, Ray T. Chen and David Z. Pan
+   * IEEE International Symposium on High-Performance Computer Architecture (HPCA), Edinburgh, Scotland, UK, Mar 2 - Mar 6, 2024.
+   * Acceptance Rate: 18% (75 among 410)<br>
 
   ### C12. Pre-RMSNorm and Pre-CRMSNorm Transformers: Equivalent and Efficient Pre-LN Transformers
   * Zixuan Jiang, Jiaqi Gu, **Hanqing Zhu** and David Z. Pan
