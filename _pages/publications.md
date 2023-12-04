@@ -14,7 +14,7 @@ You can also find my full-list articles on <a href="https://scholar.google.com/c
 Selected Conference Papers
 ======
 * 2023
-  ### C13. DOTA: A Dynamically-Operated Photonic Tensor Core for Energy-Efficient Transformer Accelerator
+  ### C13. Lightening-Transformer: A Dynamically-operated Optically-interconnected Photonic Transformer Accelerator
    * **Hanqing Zhu**, Jiaqi Gu, Hanrui Wang, Zixuan Jiang, Rongxing Tang, Zhekai Zhang, Chenghao Feng, Song Han, Ray T. Chen and David Z. Pan
    * IEEE International Symposium on High-Performance Computer Architecture (HPCA), Edinburgh, Scotland, UK, Mar 2 - Mar 6, 2024.
    * Acceptance Rate: 18% (75 among 410)<br>
@@ -87,11 +87,11 @@ Selected Conference Papers
 Journal Papers
 ======
 * 2022
-
-   ### J4. [ A compact butterfly-style silicon photonic-electronic neural chip for hardware-efficient deep learning](https://pubs.acs.org/doi/abs/10.1021/acsphotonics.2c01188)
+  ### J4. [ A compact butterfly-style silicon photonic-electronic neural chip for hardware-efficient deep learning](https://pubs.acs.org/doi/abs/10.1021/acsphotonics.2c01188)
    * accepeted
    * Chenghao Feng*, Jiaqi Gu*, **Hanqing Zhu**, Zhoufeng Ying, Zheng Zhao, David Z. Pan and Ray T. Chen
    * ACS Photonics, Nov 30, 2022.<br>
+  
   ### J3. [SqueezeLight: A Multi-Operand Ring-Based Optical Neural Network with Cross-Layer Scalability](https://doi.org/10.1109/TCAD.2022.3189567)
    * <a href="/publications/papers/ONN_TCAD2022_Gu.pdf" style="color:#3793ae">preprint</a>
    * Jiaqi Gu, Chenghao Feng, **Hanqing Zhu**, Zheng Zhao, Zhoufeng Ying, Mingjie Liu, Ray T. Chen and David Z. Pan
