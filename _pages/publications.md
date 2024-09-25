@@ -13,12 +13,17 @@ You can also find my full-list articles on <a href="https://scholar.google.com/c
 
 Selected Conference Papers
 ======
-* 2023
+* 2024
+  ### C14. PACE: Pacing Operator Learning to Accurate Optical Field Simulation for Complicated Photonic Devices
+   * **Hanqing Zhu**, Wenyan Cong, Guojin Chen, Shupeng Ning, Ray Chen, Jiaqi Gu, and David Z. Pan
+   * Conference on Neural Information Processing Systems (NeurIPS), 2024
+
   ### C13. Lightening-Transformer: A Dynamically-operated Optically-interconnected Photonic Transformer Accelerator
    * **Hanqing Zhu**, Jiaqi Gu, Hanrui Wang, Zixuan Jiang, Rongxing Tang, Zhekai Zhang, Chenghao Feng, Song Han, Ray T. Chen and David Z. Pan
    * IEEE International Symposium on High-Performance Computer Architecture (HPCA), Edinburgh, Scotland, UK, Mar 2 - Mar 6, 2024.
    * Acceptance Rate: 18% (75 among 410)<br>
 
+* 2023
   ### C12. Pre-RMSNorm and Pre-CRMSNorm Transformers: Equivalent and Efficient Pre-LN Transformers
   * Zixuan Jiang, Jiaqi Gu, **Hanqing Zhu** and David Z. Pan
   * Conference on Neural Information Processing Systems (NeurIPS), New Orleans, Louisiana, Dec 10 - Dec 16, 2023. **(Spotlight)**.<br>
@@ -86,9 +91,24 @@ Selected Conference Papers
 
 Journal Papers
 ======
+* 2024
+  ### J8. Photonic-Electronic Integrated Circuits for High-Performance Computing and AI Accelerator
+  * Shupeng Ning, **Hanqing Zhu(Co-first author)**, Chenghao Feng, Jiaqi Gu, Zhixing Jiang, Zhoufeng Ying, Jason Midkiff, Sourabh Jain, May H. Hlaing, David Z. Pan, and Ray T. Chen
+  * IEEE Journal of Lightwave Technology (JLT), July. 2024.
+
+  ### J7. Integrated multi-operand optical neurons for scalable and hardware-efficient deep learning
+  * Feng, Chenghao, Jiaqi Gu, **Hanqing Zhu**, Shupeng Ning, Rongxing Tang, May Hlaing, Jason Midkiff, Sourabh Jain, David Z. Pan, and Ray T. Chen
+  * Nanophotonics 13, no. 12 (2024): 2193-2206.
+
+  ### J6. Machine Learning-Enabled Compact Photonic Tensor Core based on PRogrammable Multi-Operand Multimode Interference
+  * Jiaqi Gu, **Hanqing Zhu**, Chenghao Feng, Zixuan Jiang, Ray T. Chen, and David Z. Pan
+  * APL Machine Learning, 2024
+
+  ### J5. Domain Wall-Magnetic Tunnel Junction Analog Content Addressable Memory Using Current and Projected Data
+  * Harrison Jin, **Hanqing Zhu**, Keren Zhu, Thomas Leonard, Jaesuk Kwon, Mahshid Alamdar, Kwangseok Kim, Jungsik Park, Naoki Hase, David Z. Pan, Jean Anne C. Incorvia
+  * IEEE Transactions on Nanotechnology, 2024
 * 2022
   ### J4. [ A compact butterfly-style silicon photonic-electronic neural chip for hardware-efficient deep learning](https://pubs.acs.org/doi/abs/10.1021/acsphotonics.2c01188)
-   * accepeted
    * Chenghao Feng*, Jiaqi Gu*, **Hanqing Zhu**, Zhoufeng Ying, Zheng Zhao, David Z. Pan and Ray T. Chen
    * ACS Photonics, Nov 30, 2022.<br>
   
