@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-[PDF](/files/resume/CV_ZHQ_202311.pdf){: .btn}
+[PDF](/files/resume/CV_ZHQ_Nov15.pdf){: .btn}
 
 ## Hanqing Zhu
 
@@ -28,7 +28,11 @@ PhD student, Dept. of Electrical and Computer Engineering @ UT Austin
 ## Work experience
 
 ------
-
+* Meta AI (May 2024 - Nov. 2024)
+  * Research Scientist Intern, Efficient Large-scale Training, Boston, MA
+  * Project: 
+    * Memory-efficient training techniques for large language model
+    * Communication-efficient methods for large-scale ads model training
 * Lightelligencea Inc (May 2023 - Sep. 2023)
   * Software Research Intern, Software Team, Boston, MA
   * Project: Low-bit Noise-aware Training Framework for Photonic AI Accelerator
@@ -50,6 +54,8 @@ PhD student, Dept. of Electrical and Computer Engineering @ UT Austin
 ## Awards and Honors
 
 ------
+* UT Graduate School Continuing Fellowship Nomination (1 of 2 in the entire ECE), UT Austin, 2024
+* Texas ECE Graduate Achievement Award, UT Austin, 2024
 * 1st place at IEEE/ACM MLCAD 2023 FPGA Macro-Placement Contest, MLCAD, 2023
 * MLSys Student Travel Award, MLSys, 2023
 * Winner at Robert S. Hilbert Memorial Optical Design Competition, Synopsys, 2022
