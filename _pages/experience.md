@@ -7,6 +7,11 @@ author_profile: true
 
 {% include base_path %}
 
+* **Meta, USA**
+  * Research Scientist Intern
+  * Meta AI
+  * May 2024 - Nov. 2024
+
 * **Lightelligence, USA**
   * Software Research Intern
   * Software Team

@@ -9,12 +9,12 @@ redirect_from:
 
 {% include base_path %}
 
-[PDF](/files/resume/CV_ZHQ_Nov15.pdf){: .btn}
+<!-- [PDF](/files/resume/CV_ZHQ_Nov15.pdf){: .btn} -->
 
 ## Hanqing Zhu
 
 {: .text-center}
-PhD student, Dept. of Electrical and Computer Engineering @ UT Austin
+PhD candidate, Dept. of Electrical and Computer Engineering @ UT Austin
 {: .text-center}
 
 ## Education
@@ -23,13 +23,13 @@ PhD student, Dept. of Electrical and Computer Engineering @ UT Austin
 
 * Ph.D. in the University of Texas at Austin (GPA: 3.95/4.00), Texas, US, 2025(expected)
 * B.Eng. in Shanghai Jiaotong University (GPA: 3.81/4.00, Rank: 2/57), Shanghai, China, 2020
-* Summer School (Full schoolarship) in Peter the Great St. Petersburg Polytechnic University, St. Petersburg, Russia. 2018
+* Summer School (Full scholarship) in Peter the Great St. Petersburg Polytechnic University, St. Petersburg, Russia. 2018
 
 ## Work experience
 
 ------
 * Meta AI (May 2024 - Nov. 2024)
-  * Research Scientist Intern, Efficient Large-scale Training, Boston, MA
+  * Research Scientist Intern, Efficient Large-scale Training, Sunnyvale, CA
   * Project: 
     * Memory-efficient training techniques for large language model
     * Communication-efficient methods for large-scale ads model training
