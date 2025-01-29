@@ -1,0 +1,392 @@
+name:
+  first: Hanqing
+  last: Zhu
+email: hqzhu@utexas.edu
+pdf: /data/cv.pdf
+url: https://zhuhanqing.github.io/
+social:
+  github: zhuhanqing
+  linkedin: hanqing-zhu-me
+  google_scholar: myMcrNEAAAAJ
+
+# LaTeX formatting
+style: banking # casual, classic, oldstyle, or banking
+color: blue # blue, orange, green, red, purple, #9a9a9a and black
+color2: '0.25,0.25,0.25' # Make the font under the name a darker #9a9a9a.
+
+order:
+  - [about, NONE]
+  # - [current_position, Current Position]
+  - [education, Education]
+  - [positions, Experiences]
+  - [research_interests, Research Interests]
+  # - [all_publications, Publications]
+
+  - [categories_publications, Publications]
+  - [news, News]
+  - [repos, Open Source Repositories]
+
+  # - [talks, Invited Talks]
+  # - [advising, Interns and Students]
+  - [honors, Awards]
+  # - [projs, Ongoing Projects]
+  - [service, Professional Activities]
+  - [teaching, Teaching]
+  # - [skills, Skills]
+
+about: |
+  <p align='justify'>
+  I am a final-year Ph.D. candidate at Chinese University of Hong Kong (CUHK-CSE), where I have been fortunate to work with Professor \href{http://www.cse.cuhk.edu.hk/~byu/}{Bei Yu} and co-supervised by Professor \href{https://scholar.google.com/citations?user=WPhoQiUAAAAJ}{Martin D. F. Wong}. My Chinese name is 陈国晋.
+  </p>
+  <p style="text-align: center;"><span style="color: red;">I am on the job market for 2024-2025, appreciate any opportunities!</span></p>
+  <h3>Research Interests:</h3>
+  <ul>
+    <li>Scaling deep learning:
+    large language models, agent systems<span style="color:#9a9a9a">[arxiv'\href{https://arxiv.org/abs/2408.12775}{24}]</span>, LLM on EDA <span style="color:#9a9a9a">[arxiv'\href{https://arxiv.org/abs/2406.05250}{24}]</span>,
+    large-scale layout representation learning <span style="color:#9a9a9a">[ICCAD'\href{https://www.cse.cuhk.edu.hk/~byu/papers/C146-ICCAD2022-LayouTransformer.pdf}{22}]</span>.
+    </li>
+    <li>Design for manufacturing:
+    computational lithography <span style="color:#9a9a9a">[SPIE'\href{https://www.cse.cuhk.edu.hk/~byu/papers/C201-SPIE2024-OpenLitho.pdf}{24}'\href{https://arxiv.org/abs/2303.14335}{23}]</span>,
+    OPC <span style="color:#9a9a9a">[DAC'\href{https://arxiv.org/abs/2408.08969}{24}'\href{https://arxiv.org/abs/2303.08435}{23},ICCAD'\href{https://arxiv.org/abs/2408.08969}{24}'\href{https://www.cse.cuhk.edu.hk/~byu/papers/C148-ICCAD2022-AdaOPC.pdf}{22}'\href{https://arxiv.org/abs/2303.12529}{21}'\href{https://arxiv.org/abs/2008.00806}{20}]</span>,
+    SMO <span style="color:#9a9a9a">[DAC'\href{https://arxiv.org/abs/2405.09548}{24}, TCAD'\href{https://ieeexplore.ieee.org/document/10419017}{24}]</span>.</li>
+    <li>Optimization: bi-level & multi-level optimization <span style="color:#9a9a9a">[DAC'\href{https://arxiv.org/abs/2405.09548}{24}]</span>, level-set optimization <span style="color:#9a9a9a">[ICCAD'\href{https://arxiv.org/abs/2303.12529}{21}]</span>, GPU acceleration.</li>
+    <li>Deep learning in VLSI design: physics-informed networks for EDA problems <span style="color:#9a9a9a">[DAC'\href{https://arxiv.org/abs/2303.08435}{23}]</span>.</li>
+  </ul>
+  Check my <a href="https://gjchen.notion.site/" target="_blank">research overview here</a>.
+
+
+
+research_interests:
+  - "Scaling deep learning: large language models, LLM on EDA, large-scale layout representaion learning."
+  - "Design for manufacturing: computational lithography, mask optimization, OPC, SMO."
+  - "Deep learning in VLSI design: physics-informed networks for EDA problems"
+  - "Optimization: bi-level \\& multi-level optimization, GPU acceleration, level-set optimization."
+
+current_position:
+  - place: Google DeepMind
+    location: Mountain View, California
+    title: Ph.D. Student Researcher
+    dates: 2024.07 -- 2024.10
+    # inline_detail: "Supervisor : Prof. \\href{https://users.ece.utexas.edu/~dpan/}{David Z. Pan}"
+    # details: "Supervisor : Prof. \\href{https://users.ece.utexas.edu/~dpan/}{David Z. Pan}"
+  - place: Chinese University of Hong Kong
+    # location: Shatin, Hong Kong
+    title: Ph.D. Candidate
+    dates: 2021.08 -- Present
+    inline_detail: "Supervisor : Prof. \\href{http://www.cse.cuhk.edu.hk/~byu/}{Bei Yu}"
+    # details: "Supervisor : Prof. \\href{http://www.cse.cuhk.edu.hk/~byu/}{Bei Yu}"
+
+education:
+  - school: Chinese University of Hong Kong
+    location: Hong Kong, China
+    degree: Ph.D. in Computer Science
+    dates: 2021 -- Present
+    details:
+      - "Supervisor : Prof. \\href{http://www.cse.cuhk.edu.hk/~byu/}{Bei Yu}"
+
+  - school: Chinese University of Hong Kong
+    location: Hong Kong, China
+    degree: M.S. in Computer Science
+    dates: 2019 -- 2020
+    # details:
+    #   - "Thesis: \\textit{\\href{https://github.com/bamos/thesis}{Differentiable Optimization-Based Modeling for Machine Learning}}"
+    #   - "Advisor: \\href{http://zicokolter.com}{J. Zico Kolter}"
+  - school: Huazhong University of Science and Technology
+    location: Wuhan, China
+    degree: B.S. in Computer Science
+    dates: 2015 -- 2019
+    # overallGPA: 3.99/4.00
+
+news:
+  - date: Oct. 15, 2024
+    info: Back to HK, offer offer come to me!
+  - date: Aug. 07, 2024
+    info: Good day! My google scholar citation reached 200. Small step for others, big step for me!
+  - date: July. 22, 2024
+    info: Starting internship at Google DeepMind, Mountain View, CA.
+  - date: June. 24, 2024
+    info: Attending DAC 2024, San Francisco, CA.
+  - date: Apr. 29, 2024
+    info: Starting internship at NVIDIA Research. Let's rock'n'roll! Many thanks to my mentor Haoyu Yang and Mark Ren.
+  - date: Feb. 25, 2024
+    info: Traveling to SPIE24, San Jose. <a href="https://docs.google.com/presentation/d/1t6okbiCGKr6iiM3_e9QquwA9AvI_WPmB/edit?usp=sharing&ouid=105429981784179566910&rtpof=true&sd=true" target="_blank">[slides]</a>, <a href="https://github.com/TorchOPC/TorchLitho" target="_blank">[codes]</a>
+  - date: Feb. 13, 2024
+    info: Three papers got accepted by DAC 2024.
+  - date: Jan. 13, 2024
+    info: One TCAD about source mask optimization got accepted.
+  - date: Aug. 01, 2023
+    info: Coming to Austin.
+  - date: Jul. 28, 2023
+    info: Attending DAC conference.
+  - date: Feb. 06, 2023
+    info: Two papers got accepted by DAC 2023, one paper get best score in DFM track.
+
+positions:
+  - place: Google DeepMind
+    title: Ph.D. Student Researcher
+    logo: /images/logos/deepmind_large.svg
+    pdf_logo: deepmind_large.pdf
+    location: Mountain view, CA
+    dates: 2024.07 -- 2024.10
+    # inline_detail: "Mentor.  \\href{https://phdyang007.github.io/}{Haoyu Yang} \\& \\href{https://research.nvidia.com/person/haoxing-mark-ren}{Mark Ren}"
+  - place: NVIDIA
+    title: Research Scientist Intern
+    logo: /images/logos/nvidia.svg
+    pdf_logo: nvidia.pdf
+    location: Austin, TX
+    dates: 2024.04 -- 2024.07
+    inline_detail: "Mentor \\& Manager. \\href{https://phdyang007.github.io/}{Haoyu Yang} \\& \\href{https://research.nvidia.com/person/haoxing-mark-ren}{Mark Ren}"
+
+  - place: University of Texas at Austin
+    title: Visiting Scholar
+    logo: /images/logos/utlogo.svg
+    pdf_logo: utlogo.pdf
+    location: Austin, TX
+    dates: 2023.08 -- 2024.4
+    inline_detail: "Supervisor : Prof. \\href{https://users.ece.utexas.edu/~dpan/}{David Z. Pan}"
+
+  # - place: Chinese University of Hong Kong
+  #   title: Research Assistant
+  #   # logo: /images/logos/utlogo.svg
+  #   # pdf_logo: utlogo.pdf
+  #   location: Hong Kong, China
+  #   dates: 2020.08 -- 2021.08
+  #   inline_detail: "Supervisor : Prof. \\href{https://www.cse.cuhk.edu.hk/~byu/}{Bei Yu}"
+
+  - place: Tencent
+    title: Intern
+    logo: /images/logos/tencent.svg
+    pdf_logo: tencent.pdf
+    location: Shenzhen, China
+    dates: 2018
+
+categories_publications:
+  name: "Guojin Chen"
+  file: all.bib
+  categories:
+    -
+      heading: "Conference papers"
+      file: conf.bib
+      prefix: 'C'
+    -
+      heading: "Journal papers"
+      file: journal.bib
+      prefix: 'J'
+    -
+      heading: "Preprints"
+      file: arxiv.bib
+      prefix: 'P'
+
+  group_by_topic: False
+  sort_bib: True
+  include_image: False
+  group_by_year: False
+  prefix: 'C'
+  prefix_reverse: True
+  show_author_url: True
+  author_urls:
+    'Wanli Chen' : 'https://cwanli.github.io/'
+    'Yuzhe Ma' : 'https://yuzhe630.github.io/'
+    'Haoyu Yang' : 'https://phdyang007.github.io/'
+    'Bei Yu' : 'https://www.cse.cuhk.edu.hk/~byu/'
+    'Ziyang Yu' : 'https://scarecrowyu.github.io/'
+    'Martin Wong' : 'https://scholar.google.com/citations?user=WPhoQiUAAAAJ'
+    'Martin D.F. Wong' : 'https://scholar.google.com/citations?user=WPhoQiUAAAAJ'
+    'Xinge Zhu' : 'https://xingezhu.me/'
+    'Ran Chen' : 'https://appsrv.cse.cuhk.edu.hk/~rchen/'
+    'Wei Li' : 'https://wadmes.github.io/cv/'
+    'Wenqian Zhao' : 'https://wenqian1228.github.io/'
+    'Xufeng Yao' : 'https://appsrv.cse.cuhk.edu.hk/~xfyao/'
+    'Chunjing Xu' : 'https://scholar.google.com/citations?user=-CJ5LkMAAAAJ'
+    'Yi Zhu' : 'https://yeezhu.github.io/'
+    'Lei Ye' : 'https://noahlab.com.hk/'
+    'Liangjian Wen' : 'https://scholar.google.com/citations?user=jwHflLcAAAAJ'
+    'Jianzhuang Liu' : 'https://scholar.google.com/citations?user=sKauaAwAAAAJ'
+    'Hongduo Liu' : 'https://liuhongduosc.github.io/'
+    'Zehua Pei' : 'https://appsrv.cse.cuhk.edu.hk/~zhpei23/'
+    'Zixiao Wang' : 'https://shiningsord.github.io/'
+    'Yunheng Shen' : 'https://shiningsord.github.io/'
+    'Yang Bai' : 'https://ybai62868.github.io/'
+    'Farzan Farnia' : 'https://www.cse.cuhk.edu.hk/people/faculty/farzan-farnia/'
+    'Qi Sun' : 'https://scholar.google.com/citations?user=4OnODOAAAAAJ'
+    'Su Zheng' : 'https://shelljane.github.io/'
+    'Binwu Zhu' : 'https://kins1ley.github.io/'
+    'Shuo Yin' : 'https://sawydust1228.github.io/'
+    'Zhuolun He' : 'https://zleonhe.github.io/'
+    'Keren Zhu' : 'https://krz.engineer/'
+    'Fangzhou Liu' : 'https://gjchen.me'
+    'Haisheng Zheng' : 'https://gjchen.me'
+    'Fan Yang' : 'https://sme.fudan.edu.cn/65/41/c31277a353601/page.htm'
+    'David Z. Pan' : 'https://www.ece.utexas.edu/people/faculty/david-z-pan'
+    'Hao Geng' : 'https://true-genghao.github.io/genghao/'
+    'Hongquan He' : 'https://true-genghao.github.io/genghao/'
+    'Peng Xu' : 'https://shipxu123.github.io/'
+    'Xinyun Zhang' : 'https://yxgnahz.github.io/'
+    'Hong Xu' : 'https://www.cse.cuhk.edu.hk/people/faculty/henry-hong-xu/'
+    'Tinghuan Chen' : 'https://mypage.cuhk.edu.cn/academics/chentinghuan/'
+    'Tsung-Yi Ho' : 'https://scholar.google.com/citations?user=TRDUYkAAAAAJ&hl=en'
+    'Siyuan Xu' : 'https://scholar.google.com/citations?user=TRDUYkAAAAAJ&hl=en'
+    'Haoxing Ren': 'https://research.nvidia.com/person/haoxing-mark-ren'
+    'David Z Pan': 'https://users.ece.utexas.edu/~dpan/'
+    'Yao Lai': 'https://laiyao1.github.io/'
+    'Hanqing Zhu': 'https://zhuhanqing.github.io/'
+    'Wenyan Cong': 'https://wenyancong.com/'
+    'Shupeng Ning': 'https://www.linkedin.com/in/shupeng-ning/'
+    'Ray Chen': 'https://www.ece.utexas.edu/people/faculty/ray-chen'
+    'Jiaqi Gu': 'https://scopex-asu.github.io/'
+    'Seunggeun Kim': 'https://www.linkedin.com/in/seunggeun-kim-0b09b3245/'
+    'Xiaoxiao Liang': 'https://xxliang99.github.io/'
+    'Sungyoung Lee': 'https://gjchen.me'
+    'Souradip Poddar': 'https://gjchen.me'
+    'Mengkang Hu': 'https://gjchen.me'
+    'Ping Luo': 'http://luoping.me/'
+
+
+
+
+
+# all_publications:
+#   name: "Guojin Chen"
+#   file: all.bib
+#   sort_bib: True
+#   include_image: False
+#   group_by_year: False
+#   group_by_topic: False
+#   prefix: 'C'
+#   prefix_reverse: True
+#   show_author_url: True
+#   author_urls:
+#     'Wanli Chen' : 'https://cwanli.github.io/'
+#     'Yuzhe Ma' : 'https://yuzhe630.github.io/'
+#     'Haoyu Yang' : 'https://phdyang007.github.io/'
+#     'Bei Yu' : 'https://www.cse.cuhk.edu.hk/~byu/'
+#     'Ziyang Yu' : 'https://scarecrowyu.github.io/'
+#     'Martin Wong' : 'https://scholar.google.com/citations?user=WPhoQiUAAAAJ'
+#     'Xinge Zhu' : 'https://xingezhu.me/'
+#     'Ran Chen' : 'https://appsrv.cse.cuhk.edu.hk/~rchen/'
+#     'Wei Li' : 'https://wadmes.github.io/cv/'
+#     'Wenqian Zhao' : 'https://wenqian1228.github.io/'
+#     'Xufeng Yao' : 'https://appsrv.cse.cuhk.edu.hk/~xfyao/'
+#     'Chunjing Xu' : 'https://scholar.google.com/citations?user=-CJ5LkMAAAAJ'
+#     'Yi Zhu' : 'https://yeezhu.github.io/'
+#     'Lei Ye' : 'https://noahlab.com.hk/'
+#     'Liangjian Wen' : 'https://scholar.google.com/citations?user=jwHflLcAAAAJ'
+#     'Jianzhuang Liu' : 'https://scholar.google.com/citations?user=sKauaAwAAAAJ'
+#     'Hongduo Liu' : 'https://liuhongduosc.github.io/'
+#     'Zehua Pei' : 'https://scholar.google.com/citations?user=FjZurHkAAAAJ'
+#     'Zixiao Wang' : 'https://shiningsord.github.io/'
+#     'Yunheng Shen' : 'https://shiningsord.github.io/'
+#     'Yang Bai' : 'https://ybai62868.github.io/'
+#     'Farzan Farnia' : 'https://www.cse.cuhk.edu.hk/people/faculty/farzan-farnia/'
+
+honors:
+  - title: Ph.D. Studentship
+    year: 2021 -- 2025
+    descr: |
+      By Chinese University of Hong Kong, 2021-2025
+    url: https://neurips.cc/Conferences/2022/ProgramCommittee
+  - title: Outstanding Graduate
+    year: 2019
+    descr: |
+      By Huazhong University of Science and Technology
+
+projs:
+  # - title: Source mask co-optimization from bilevel optimization perspective.
+    # descr: Traditional SMO is hindered by slow, sequential and alternating optimizations without assured outcomes. I've redeveloped it using bilevel optimization and gradient-based methods, providing global perspective through upper-lower level gradient fusion for enhanced performance.
+  - title: Differentiable Computational Lithography.
+    descr: Revamping lithography with a GPU-accelerated, differentiable workflow based on Abbe imaging, using automatic differentiation to target diverse resolution enhancement objectives.
+
+
+repos:
+  - repo_url: https://github.com/TorchOPC/TorchLitho
+    year: 2024
+    desc: Differentiable computational lithography with PyTorch
+  - repo_url: https://github.com/dekura/LLANA
+    year: 2024
+    desc: LLM-Enhanced Bayesian Optimization for Efficient Analog Constraint Generation
+  - repo_url: https://github.com/OpenOPC/OpenILT
+    year: 2023
+    desc: Open-source inverse lithography technology (ILT) framework
+  - repo_url: https://github.com/ai4eda/awesome-AI4EDA
+    year: 2023
+    desc: A curated paper list of existing AI for EDA studies.
+
+
+# talks:
+#   - year: 2022
+#     location: IJCAI Tutorial
+#     url: https://guaguakai.github.io/IJCAI22-differentiable-optimization/
+#     title: Differentiable optimization
+#   - year: 2022
+#     location: ICML Workshop on Decision Awareness in RL
+#     url: https://darl-workshop.github.io/
+#     title: Differentiable optimization for control and RL
+
+# advising:
+#   - year: 2020 -- 2022
+#     name: Aaron Lou
+#     details: "(visiting FAIR from Cornell and Stanford)"
+#     url: https://www.aaronlou.com/
+#   - year: 2021 -- 2022
+#     name: Eugene Vinitsky
+#     details: "(visiting FAIR from Berkeley, now incoming professor at NYU)"
+#     url: https://eugenevinitsky.github.io/
+#   - year: 2021 -- 2022
+#     name: Arnaud Fickinger
+#     details: (visiting FAIR from Berkeley)
+#     url: https://www.linkedin.com/in/arnaudfickinger/
+#   - year: 2021 -- 2022
+#     name: Samuel Cohen
+#     details: "(visiting FAIR from UCL, now CEO at FairGen)"
+#     url: https://scholar.google.com/citations?user=CmdjfTsAAAAJ
+#   - year: 2020
+#     name: Ricky Chen
+#     details: "(visiting FAIR from Toronto, now scientist at FAIR)"
+#     url: http://www.cs.toronto.edu/~rtqichen/
+#   - year: 2020
+#     name: Paul Liang
+#     details: "(visiting FAIR from CMU)"
+#     url: http://www.cs.cmu.edu/~pliang/
+#   - year: 2018
+#     name: Phillip Wang
+#     details: "(at CMU, now CEO at \\href{https://gather.town/}{Gather})"
+#     url: https://phillipkwang.com/
+
+service:
+  reviewing:
+    - "Design Automation Conference (DAC)"
+    - "AAAI Conference on Artificial Intelligence"
+    - "IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD)"
+  main:
+    - details: Neural Information Processing Systems (NeurIPS)
+      year: 2023-2024
+    - details: Design Automation Conference (DAC)
+      year: 2021-2024
+    - details: AAAI Conference on Artificial Intelligence (AAAI)
+      year: 2022-2025
+    - details: IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD)
+      year: 2022-2024
+
+
+
+skills:
+  - title: Programming
+    details: C, C++, CUDA, Python, CMake, Golang
+  - title: Frameworks
+    details: JAX, NumPy, Pandas, PyTorch, SciPy
+  - title: Toolbox
+    details: Linux, vim, evil, org, mu4e, xmonad, git, tmux, zsh
+
+teaching:
+  - semester: F2022
+    name: Python Computing
+    short: AIST 1110
+    position: TA
+  - semester: S2022
+    name: Mobile Computing
+    short: CSCI 3310
+    position: TA
+  - semester: F2021
+    name: Numerical Optimization
+    short: AIST 3010
+    position: TA

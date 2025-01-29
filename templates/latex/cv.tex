@@ -1,0 +1,47 @@
+\documentclass[11pt,letter,sans]{moderncv}
+
+\usepackage{longtable}
+\usepackage{lmodern} % Latin Modern font. Remove the warning.
+\usepackage{tcolorbox}
+
+\setlength{\LTleft}{0pt}
+\definecolor{tab_highlight}{HTML}{f0c967}
+\definecolor{note_highlight}{HTML}{3875B7}
+\definecolor{star_yellow}{HTML}{FFD43B}
+\moderncvstyle{<< style >>}
+\moderncvcolor{<< color >>}
+\definecolor{color2}{rgb}{<<color2>>}
+\graphicspath{{build/}}
+
+% Set the page margins.
+\usepackage[top=.6in, bottom=.6in, left=.6in, right=.6in]{geometry}
+
+% Define filled heart symbol
+\DeclareSymbolFont{extraup}{U}{zavm}{m}{n}
+\DeclareMathSymbol{\varheart}{\mathalpha}{extraup}{86}
+
+\usepackage{mathabx} % For \bigstar
+
+% \usepackage{lastpage}
+% \cfoot{\addressfont\textcolor{gray}{Page \thepage\ of \pageref*{LastPage}}}
+\cfoot{\textcolor{gray}{\url{https://gjchen.me}}}
+
+\AtEndPreamble{\hypersetup{pdftitle={<< name.first >> << name.last >>: CV}}}
+\name{<< name.first >>}{<< name.last >>}
+\email{<< email >>}
+\homepage{<< url >>}
+\social[linkedin]{<<social.linkedin>>}
+\social[github]{<<social.github>>}
+\extrainfo{\small Last updated on \today}
+
+\AtBeginDocument{\hypersetup{colorlinks}}
+\frenchspacing
+
+\begin{document}
+\hypersetup{allcolors=color}
+\makecvtitle
+\vspace{-1cm}
+
+<< body >>
+
+\end{document}

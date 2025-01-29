@@ -1,0 +1,24 @@
+~< extends "section.tex" >~
+
+~< block body >~
+~< for item in items >~
+    ~< if item.pdf_logo ->~
+    \raisebox{-0.2\height}{\includegraphics[height=.9em]{<< item.pdf_logo>>}}
+    ~< endif >~
+    ~<- if item.title ->~
+    \textbf{<< item.place >>}, \emph{<< item.title >>}
+    ~<- else ->~
+    \textbf{<< item.place>>}
+    ~<- endif ->~
+    \hfill{ << item.dates >> \par}
+    % second line
+    ~< if item.inline_detail >~
+    {\footnotesize \color{gray} (<< item.inline_detail >>)}
+    ~< endif >~
+    \hfill
+    ~<- if item.location ->~
+    {\footnotesize \color{gray} << item.location >> \par}
+    ~< endif >~ \par\vspace{1mm}
+~< endfor >~
+\vspace{-3mm}
+~< endblock body >~
