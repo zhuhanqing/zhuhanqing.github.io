@@ -1,0 +1,44 @@
+body {
+    margin-top:20px;   
+    margin-bottom:60px;
+    font-family: Palatino, sans-serif;
+    line-height:155%;
+    font-size: 16px;
+  }
+  
+  a {
+    /* color: #305b81; */
+    color: #176a9d;
+    text-decoration: none;
+  }
+  
+  a:hover {
+    /* color:rgb(197, 139, 92); */
+    color:rgb(106, 0, 95);
+    /* color: #B01C33; */
+  }
+  
+  heading {
+    font-size: 22px;
+  }
+  
+  papertitle {
+    font-size: 18px;
+    font-weight: bold;
+  }
+  
+  name {
+    font-size: 32px;
+    line-height:130%;
+  }
+  
+  note {
+    color: #080808a6;
+    font-size: 13px;
+  }
+  
+  highlight {
+    /* color:	#B01C33; */
+    /* color: #305b81; */
+    color: #176a9d;
+  }
