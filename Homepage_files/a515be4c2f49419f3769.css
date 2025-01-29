@@ -1,0 +1,347 @@
+.personal_profile__BdQI4 {
+    text-align: center;
+    display: -moz-box;
+    display: flex;
+    -moz-box-orient: vertical;
+    -moz-box-direction: normal;
+    flex-direction: column;
+    margin-bottom: 2rem;
+    -moz-box-align: center;
+    align-items: center
+}
+
+@media only screen and (min-width:832px) {
+    .personal_profile__BdQI4 {
+        -moz-box-orient: horizontal;
+        -moz-box-direction: normal;
+        flex-direction: row
+    }
+}
+
+.personal_profileInfo__1Y4pW {
+    -moz-box-flex: 1;
+    flex: 1 1
+}
+
+.personal_name__1_mHK {
+    margin: 0
+}
+
+.personal_chineseName__18aOD {
+    font-size: 1.25rem;
+    color: #3d3d3d;
+    text-shadow: 1px 1px 1px rgba(45, 157, 167, .1);
+    opacity: .6;
+    margin: 0
+}
+
+.personal_fakeEmail__3q6yD {
+    display: none
+}
+
+.personal_email__2kMgm {
+    margin: 1.5rem 0;
+    line-height: 1
+}
+
+.personal_email__2kMgm a {
+    color: #000
+}
+
+.personal_links__p_eYL span:not(:last-of-type):after {
+    content: " ∙ "
+}
+
+.personal_blurb__2rRwq {
+    margin: 1rem 0;
+    padding-top: .6em;
+    padding-bottom: .8em;
+    text-align: justify
+}
+
+.personal_atsign__3xW7w {
+    color: #db4d6d;
+    font-size: 1.35rem;
+    font-weight: 700
+}
+
+.personal_portrait__BAkO0 {
+    width: 200px;
+    height: 200px;
+    border-radius: 50%
+}
+
+.personal_worksFor__2L0De {
+    font-size: 1.25rem;
+    color: #000;
+    text-shadow: 1px 1px 1px rgba(45, 157, 167, .1);
+    opacity: .6;
+    margin: 0
+}
+
+.publication_publication__1Icb_ {
+    display: -moz-box;
+    display: flex;
+    -moz-box-orient: vertical;
+    -moz-box-direction: normal;
+    flex-direction: column;
+    margin: 1.5rem 0;
+    -webkit-hyphens: auto;
+    -moz-hyphens: auto;
+    -ms-hyphens: auto;
+    hyphens: auto
+}
+
+.publication_image__1EUuC {
+    width: 100%;
+    padding-bottom: .5rem
+}
+
+.publication_image__1EUuC img,
+.publication_image__1EUuC video,
+.publication_image__full_size img,
+.publication_image__full_size video,
+.publication_image_0dot7_size img,
+.publication_image_0dot7_size video,
+
+publication_image_0dot7_size
+.publication_info__kLRGP {
+    width: 100%
+}
+
+.publication_title__3m6SE {
+    display: block;
+    font-size: large
+}
+
+.publication_title__3m6SE a:not(a[href]) {
+    color: #000
+}
+
+.publication_authors__qkFXc {
+    font-size: 1.1rem;
+    color: #777
+}
+
+.publication_authors__qkFXc>span:not(:last-of-type):after {
+    content: ", \00a0"
+}
+
+.publication_authors__qkFXc a {
+    color: #777
+}
+
+.publication_hilightedAuthor__KiWMY a {
+    color: #000;
+    font-weight: 700
+}
+
+.publication_venue__1Dv6R>span:not(:last-of-type):after {
+    content: "\00a0"
+}
+
+.publication_tag__q9Y_t:before {
+    content: "["
+}
+
+.publication_tag__q9Y_t:after {
+    content: "] "
+}
+
+.publication_highlights__2ILmf {
+    color: #e83015
+}
+
+.publication_links__aEpO_ {
+    display: -moz-box;
+    display: flex
+}
+
+.publication_link__fXY43 {
+    padding: .25rem
+}
+
+.publication_link__fXY43>a {
+    font-size: medium;
+    -webkit-transition: all .1s ease-in-out;
+    -moz-transition: all .1s ease-in-out;
+    transition: all .1s ease-in-out
+}
+
+.publication_link__fXY43:before {
+    content: "["
+}
+
+.publication_link__fXY43:after {
+    content: "]"
+}
+
+.publication_links__aEpO_>a:not(:last-of-type) {
+    margin-right: 1rem
+}
+
+@media only screen and (min-width:432px) {
+    .publication_publication__1Icb_ {
+        -moz-box-orient: horizontal;
+        -moz-box-direction: normal;
+        flex-direction: row;
+        -webkit-hyphens: auto;
+        -moz-hyphens: auto;
+        -ms-hyphens: auto;
+        hyphens: auto
+    }
+
+    .publication_image__1EUuC {
+        width: 30%;
+        max-width: 300px;
+        padding: .5rem 1rem 0 0
+    }
+
+    .publication_image_full_size {
+        width: 100%;
+        padding: 3rem 0 0 0
+    }
+
+    .publication_image_0dot7_size {
+        width: 70%;
+        padding: .5rem 1rem 0 1rem; /* Sets equal padding on the left and right */
+    }
+
+    .publication_info__kLRGP {
+        width: 70%
+    }
+}
+
+.publication-list_filters__3ikvu {
+    font-size: 1rem;
+    color: #000
+}
+
+.publication-list_smallText__pUJXB {
+    font-size: 1.1rem;
+    color: #000
+}
+
+.publication-list_filters__3ikvu:before {
+    content: " ( "
+}
+
+.publication-list_filters__3ikvu:after {
+    content: " )"
+}
+
+.publication-list_filter__1x1Xu:not(:last-of-type):after {
+    content: " / "
+}
+
+.publication-list_filter__1x1Xu a:hover {
+    cursor: pointer;
+    text-decoration: underline
+}
+
+.publication-list_filter__1x1Xu a:not(.publication-list_active__y3dLZ) {
+    color: #000
+}
+
+.publication-list_label__38tLh {
+    font-size: 1.3rem;
+    margin: 0
+}
+
+@media screen and (min-width:432px) {
+    .publication-list_mobileBreak__24vsO {
+        display: none
+    }
+
+    .publication-list_filters__3ikvu {
+        font-size: 1.2rem
+    }
+}
+
+.styles_container__1_WuM {
+    margin: 0 2rem;
+    max-width: 820px
+}
+
+.styles_projects__-bgEX {
+    width: 100%;
+    display: -moz-box;
+    display: flex;
+    -moz-box-orient: vertical;
+    -moz-box-direction: normal;
+    flex-direction: column
+}
+
+.styles_projects__-bgEX iframe {
+    width: 100%;
+    min-height: 450px;
+    height: auto;
+    margin-bottom: 1em
+}
+
+.styles_collaborator__VflHz:not(:last-of-type):after {
+    content: ", "
+}
+
+.styles_footer__3qp3V {
+    text-align: center;
+    color: #7a7a7a;
+    font-weight: 400;
+    font-size: 1rem;
+    margin-top: 3em
+}
+
+.styles_footer__3qp3V p {
+    margin: .5rem
+}
+
+.styles_footer__3qp3V a:not(:hover) {
+    text-decoration: none;
+    color: #7a7a7a
+}
+
+@media only screen and (min-width:832px) {
+    .styles_container__1_WuM {
+        margin: 0 auto
+    }
+}
+
+.styles_title__1AK6- {
+    display: block
+}
+
+.styles_title__1AK6- a {
+    color: #000
+}
+
+.styles_authors__20Znu {
+    font-size: 1.1rem
+}
+
+.styles_authors__20Znu span:not(:last-of-type):after {
+    content: ", \00a0"
+}
+
+.styles_authors__20Znu a {
+    color: #777
+}
+
+.styles_showMore__JvZFs {
+    display: -moz-box;
+    display: flex;
+    -moz-box-pack: center;
+    justify-content: center
+}
+
+.styles_showMore__JvZFs button {
+    -webkit-appearance: none;
+    -moz-appearance: none;
+    appearance: none;
+    background: transparent;
+    outline: none;
+    border: 1px solid grey;
+    border-radius: 1px;
+    font-size: medium;
+    cursor: pointer;
+    padding: .5rem
+}
