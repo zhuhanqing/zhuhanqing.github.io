@@ -81,6 +81,7 @@
 
 .publication_publication__1Icb_ {
     display: -moz-box;
+    display: flex;  /* Switches layout from column to row */
     display: flex;
     -moz-box-orient: vertical;
     -moz-box-direction: normal;
@@ -89,7 +90,8 @@
     -webkit-hyphens: auto;
     -moz-hyphens: auto;
     -ms-hyphens: auto;
-    hyphens: auto
+    hyphens: auto; 
+    gap: 20px; /* Adds spacing between text and image */
 }
 
 .publication_image__1EUuC {
