@@ -11,7 +11,7 @@ social:
 
 # LaTeX formatting
 style: banking # casual, classic, oldstyle, or banking
-color: blue # blue, orange, green, red, purple, #9a9a9a and black
+color: black # blue, orange, green, red, purple, #9a9a9a and black
 color2: '0.25,0.25,0.25' # Make the font under the name a darker #9a9a9a.
 
 order:
@@ -19,20 +19,13 @@ order:
   # - [current_position, Current Position]
   - [education, Education]
   - [positions, Experiences]
-  - [research_interests, Research Interests]
-  # - [all_publications, Publications]
 
   - [categories_publications, Publications]
-  - [news, News]
   - [repos, Open Source Repositories]
 
-  # - [talks, Invited Talks]
-  # - [advising, Interns and Students]
   - [honors, Awards]
-  # - [projs, Ongoing Projects]
   - [service, Professional Activities]
   - [teaching, Teaching]
-  # - [skills, Skills]
 
 about: |
   <p align='justify'>
