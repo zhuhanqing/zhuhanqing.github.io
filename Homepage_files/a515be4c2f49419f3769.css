@@ -122,7 +122,7 @@ publication_image_0dot7_size
 }
 
 .publication_authors__qkFXc {
-    font-size: 1.1rem;
+    font-size: 18px;
     color: #777
 }
 
@@ -157,7 +157,8 @@ publication_image_0dot7_size
 
 .publication_links__aEpO_ {
     display: -moz-box;
-    display: flex
+    display: flex;
+    font-size: 18px;
 }
 
 .publication_link__fXY43 {
