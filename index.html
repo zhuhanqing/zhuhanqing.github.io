@@ -115,7 +115,41 @@
             /* border-radius: 5px; */
             /* Soft rounded corners */
         }
+
+        #cat-gallery {
+            margin: 20px auto;
+            text-align: center;
+            }
+
+            .gallery {
+            display: flex;
+            justify-content: center;
+            flex-wrap: wrap;
+            gap: 20px;
+            margin-top: 15px;
+            }
+
+            .gallery figure {
+            margin: 0;
+            width: 200px; /* Adjust the width as needed */
+            }
+
+            .gallery img {
+            width: 100%;
+            height: auto;
+            border-radius: 8px; /* Optional: add some rounded corners */
+            }
+
+            .gallery figcaption {
+            margin-top: 8px;
+            font-size: 16px;
+            color: #333;
+            }
+
     </style>
+
+
+  
 
 </head>
 
@@ -158,14 +192,15 @@
                         at ASU. 
                     </p>
                     <p>
-                        I was recognized as one of the <a href="https://www.sigarch.org/rising-stars-in-machine-learning-systems/">ML and Systems Rising Stars</a> in 2025 (38 out of 150+). 
+                        Previously, I received the B.Eng. degree in Microelectronics Science and
+                        Engineering from <a href="https://en.sjtu.edu.cn/">Shanghai Jiaotong
+                            University</a> with highest honor, in 2020.
+                            I grew up in <a href='https://www.google.com/maps/place/Zhoujiazhen,+Dazhu+County,+Dazhou,+Sichuan,+China,+635113/...'>a small town</a> in southwest China, where I received my pre-college education.
                     </p>
                     <p>
-                        Previously, I received the B.Eng. degree in microelectronics science and
-                        engineering from <a href="https://en.sjtu.edu.cn/">Shanghai Jiaotong
-                            University</a> with highest honor, in 2020.
+                        I was recognized as one of the <a href="https://www.sigarch.org/rising-stars-in-machine-learning-systems/">ML and Systems Rising Stars</a> in 2025 (38 out of 150+). 
+                        [<a href="#honors-awards">More Honors</a>]
                     </p>
-
                     <p>
                         Recent Updates:
                         <span style="background: #d6eef8;">I will join Meta Reality labs, Core AI team as Research
@@ -276,7 +311,7 @@
                                     <p>Ph.D. in Electrical and Computer Engineering (2020 - 2025)</p>
                                     <p><em>First year (2020-2021) conducted part-time in China due to
                                             COVID-19</em></p>
-                                    <p><strong>ML and System Rising star' 2025, Graduate
+                                    <p><strong>ML and System Rising star (2025), Graduate
                                             School Continuing Fellowship Nomination (1 of 2 in the ECE department),
                                             Texas ECE Graduate Achievement
                                             Award</strong></p>
@@ -711,7 +746,7 @@
                     </div>
 
             </section>
-            <section>
+            <section id="honors-awards">
                 <h2>Honors & Awards</h2>
                 <ul style="padding-top:10px">
                     <li style="padding-top:5px"> <span style="background: #d6eef8;">
@@ -765,6 +800,23 @@
                     </li>
                 </ul>
             </section>
+
+            <section id="cat-gallery">
+                <!-- <h2>My Cats</h2> -->
+                I have two lovely cats :)
+                <div class="gallery">
+                  <figure>
+                    <img src="images/Fog.jpeg" alt="Cat 1" />
+                    <figcaption>Fubao</figcaption>
+                  </figure>
+                  <figure>
+                    <img src="images/meimei.jpeg" alt="Cat 2" />
+                    <figcaption>Meimei</figcaption>
+                  </figure>
+                </div>
+              </section>
+              
+
             <footer class="styles_footer__3qp3V">
                 <p>Last updated on <time datetime="Jan 25, 2025">Jan 29, 2025</time></p>
                 <p> The website template was originally borrowed from <a href="https://www.xzhou.me/">[1] </a>and <a
@@ -773,6 +825,20 @@
         </div>
     </div>
 
+    <script>
+        document.addEventListener('DOMContentLoaded', () => {
+          const timeElem = document.querySelector('footer time');
+          if (timeElem) {
+            // Get the document's last modified date
+            const lastModified = new Date(document.lastModified);
+            // Format the date (adjust the options as needed)
+            const options = { year: 'numeric', month: 'short', day: 'numeric' };
+            timeElem.textContent = lastModified.toLocaleDateString(undefined, options);
+            timeElem.setAttribute('datetime', lastModified.toISOString());
+          }
+        });
+      </script>
+      
 </body>
 
 </html>
