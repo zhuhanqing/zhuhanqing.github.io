@@ -1,0 +1,57 @@
+body,
+html {
+    padding: 0;
+    margin: 0;
+    font-family: -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Oxygen, Ubuntu, Cantarell, Fira Sans, Droid Sans, Helvetica Neue, sans-serif
+}
+
+body {
+    background: #fff no-repeat fixed 0 0;
+    margin: 3rem 0;
+    font-family: Lato, sans-serif;
+    line-height: 1.5;
+    font-size: 1.2rem;
+    font-weight: 400;
+    text-align: justify
+}
+
+h1 {
+    text-align: center;
+    font-size: 4rem
+}
+
+h1,
+h2 {
+    color: #000;
+    font-weight: 400;
+    text-shadow: 1px 1px 1px hsla(0, 0%, 64.7%, .3)
+}
+
+h2 {
+    margin: .3em 0 .2em;
+    font-size: 2rem
+}
+
+a {
+    color: #0567e7
+}
+
+a:not(:hover) {
+    text-decoration: none
+}
+
+a img {
+    border: 0
+}
+
+* {
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box
+}
+
+@media only screen and (max-width:832px) {
+    h1 {
+        font-size: 3rem
+    }
+}

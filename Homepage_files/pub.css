@@ -114,7 +114,7 @@ publication_image_0dot7_size
 
 .publication_title__3m6SE {
     display: block;
-    font-size: 20px
+    font-size: 18px
 }
 
 .publication_title__3m6SE a:not(a[href]) {
@@ -122,7 +122,7 @@ publication_image_0dot7_size
 }
 
 .publication_authors__qkFXc {
-    font-size: 18px;
+    font-size: 16px;
     color: #777
 }
 
@@ -140,7 +140,8 @@ publication_image_0dot7_size
 }
 
 .publication_venue__1Dv6R>span:not(:last-of-type):after {
-    content: "\00a0"
+    font-size: 18px;
+    /* content: "\00a0" */
 }
 
 .publication_tag__q9Y_t:before {
@@ -212,7 +213,7 @@ publication_image_0dot7_size
     }
 
     .publication_info__kLRGP {
-        width: 70%
+        width: 98%
     }
 }
 
