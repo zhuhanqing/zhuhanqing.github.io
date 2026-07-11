@@ -2,21 +2,28 @@
 <html lang="en">
 
 <style>
-  .motto-wrap { text-align: center; }  /* centers inline-block children */
+  .motto-wrap { text-align: center; }
   .motto {
-    /* font-style: italic-normal; 斜体 */
-    background-color: #f5f5f5;  /* 浅灰色背景，可按需调整 */
-    padding: 0.1rem 0.1rem;       /* 上下左右留白 */
-    border-radius: 2px;         /* 圆角 */
-    display: inline-block;      /* 让背景只包裹文字 */
-    margin: 10px 0;             /* 上下间距 */
-    line-height: 1.5em;         /* 行高 */
-    text-align: center;    /* center the text */
+    font-family: 'Cormorant Garamond', Georgia, 'Times New Roman', serif;
+    font-style: italic;
+    font-weight: 500;
     font-size: 12pt;
+    letter-spacing: 0.01em;
+    color: #4a4a4a;
+    background-color: #f7f6f4;
+    padding: 0.85rem 1.25rem;
+    border-radius: 6px;
+    border-left: 3px solid #c8c2b8;
+    display: block;
+    margin: 14px auto;
+    max-width: 720px;
+    line-height: 1.55em;
+    text-align: center;
   }
   .motto a {
-    text-decoration: underline; /* 链接下划线 */
-    color: inherit;             /* 继承斜体颜色 */
+    text-decoration: underline;
+    text-underline-offset: 2px;
+    color: inherit;
   }
 </style>
 
@@ -35,6 +42,9 @@
 
     <title>Hanqing Zhu</title>
 
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,500;1,500&display=swap" rel="stylesheet">
     <link rel="stylesheet" type="text/css" href="stylesheet.css">
     <link href="css/bootstrap.min.css" rel="stylesheet" media="screen">
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css">
@@ -63,13 +73,28 @@
 
 
                             <tr style="padding:0px">
-                                <td style="padding:2.5%;width:40%;max-width:30%">
+                                <td style="padding:2.5%;width:40%;max-width:30%;vertical-align:middle;text-align:center">
                                     <a href="images/hanqing.jpg">
                                         <img style="width:100%; max-width:100%; border-radius: 50%; object-fit: cover;" 
                                             alt="profile photo" 
                                             src="images/hanqing.jpg" 
                                             class="hoverZoomLink">
                                     </a>
+                                    <p style="text-align:center; margin: 12px 0 4px 0; color: #444; font-size: 1.05em;">
+                                        Member of Technical Staff
+                                    </p>
+                                    <p style="text-align:center; margin: 0 0 10px 0; color: #666; font-size: 0.95em;">
+                                        <a href="https://x.ai/" target="_blank" style="color: inherit; text-decoration: none;">xAI</a>
+                                    </p>
+                                    <p style="text-align:center; margin: 0; line-height: 1.6; font-size: 0.9em; white-space: nowrap;">
+                                        <a href="mailto:hqzhu@utexas.edu" target="_blank">📧 Email</a>
+                                        &nbsp;|&nbsp;
+                                        <a href="data/cv.pdf" target="_blank">📄 CV</a>
+                                        &nbsp;|&nbsp;
+                                        <a href="https://scholar.google.com/citations?user=myMcrNEAAAAJ" target="_blank">🎓 Scholar</a>
+                                        &nbsp;|&nbsp;
+                                        <a href="https://x.com/zhu_hanqin41424" target="_blank">🐦 Twitter</a>
+                                    </p>
                                 </td>
                                 <td style="padding:2.5%;width:60%;vertical-align:middle">
                                     <p style="text-align:center">
@@ -90,39 +115,16 @@
                                         <a href="#cats" onclick=Expand("cats")> 🐱 My Cats</a>
                                     </p>
                                     <p>
-                                        I am working on scaling up intelligence in the RL Science team at xAI.
-                                    </p>
-                                    <p> I obtained my Ph.D at the ECE Department of <a
-                                        href="https://www.utexas.edu/">UT Austin</a>, advised by Prof. <a href="http://www.ece.utexas.edu/~dpan/">David Z. Pan</a>
-                                    (Fellow of ACM, IEEE, SPIE) and Prof. <a
-                                        href="http://www.mrc.utexas.edu/people/faculty/ray-chen">Ray T. Chen</a>
-                                    (Fellow of NAI, IEEE, OSA, SPIE). I have the privilege to work closely with Prof. <a href="https://www.vita-group.space/pi">Zhangyang
-                                            "Atlas" Wang</a> at UT Austin on efficient AI. 
+                                        I work on RL Science &amp; Coding RL Bigrun at <a href="https://x.ai/">xAI</a>. I am one of the key contributors for Grok 4.5 for its <a href="https://x.com/zhu_hanqin41424/status/2074939587345199421?s=20" target="_blank">RL scaling and core algorithmic changes</a>, one of our biggest leaps.
                                     </p>
                                     <p>
-                                        Previously, I received my bachelor's degree from <a href="https://en.sjtu.edu.cn/">Shanghai Jiaotong
-                                            University</a> with highest honor, in 2020.
+                                        I earned my Ph.D. in ECE from <a href="https://www.utexas.edu/">UT Austin</a>, advised by Prof. <a href="http://www.ece.utexas.edu/~dpan/">David Z. Pan</a> and Prof. <a href="http://www.mrc.utexas.edu/people/faculty/ray-chen">Ray T. Chen</a>. I also worked closely with Prof. <a href="https://www.vita-group.space/pi">Zhangyang "Atlas" Wang</a> on efficient AI.
                                     </p>
-
                                     <p>
-                                         I was recognized as the <a
-                                            href="https://www.sigarch.org/rising-stars-in-machine-learning-systems/">ML and Systems
-                                            Rising Star</a> in 2025, received MLSys'25 <a
-                                            href="https://mlsys.org/virtual/2025/poster/3241"> Outstanding Paper Award (Honorable
-                                            Mention)</a>, CVPR'25 AI4CC Workshop <a href="https://ai4cc.net/"> Best Paper Award</a>,
-                                        Texas ECE Achievement Award, and <a href="#honors">more honors</a>.
+                                        Previously, I received my bachelor's degree from <a href="https://en.sjtu.edu.cn/">Shanghai Jiao Tong University</a> with highest honor in 2020.
                                     </p>
-
-                                    <p style="text-align:center">
-                                        &nbsp&nbsp
-                                        <a href="mailto:hqzhu@utexas.edu" target="_blank">👉 Email</a> &nbsp|&nbsp
-                                        <a href="data/cv.pdf" target="_blank">👉 CV</a> &nbsp|&nbsp
-                                        <a href="https://github.com/zhuhanqing" target="_blank">👉 Github</a>
-                                        &nbsp|&nbsp
-                                        <a href="https://scholar.google.com/citations?user=myMcrNEAAAAJ"
-                                            target="_blank">👉 Google Scholar</a>
-                                        &nbsp|&nbsp
-                                        <a href="https://x.com/zhu_hanqin41424" target="_blank">👉Twitter</a>
+                                    <p>
+                                        I was recognized as the <a href="https://www.sigarch.org/rising-stars-in-machine-learning-systems/">ML and Systems Rising Star</a> in 2025, received MLSys'25 <a href="https://mlsys.org/virtual/2025/poster/3241">Outstanding Paper Award (Honorable Mention)</a>, CVPR'25 AI4CC Workshop <a href="https://ai4cc.net/">Best Paper Award</a>, Texas ECE Achievement Award, and <a href="#honors">more honors</a>.
                                     </p>
                                 </td>
                             </tr>
@@ -147,17 +149,14 @@
                         
                         <div id="content-research-interests" class="collapse in">
                             <p style="margin-bottom: 10px; line-height: 1.5; margin-left: 10px; margin-top: 10px;">
-                                My research aims to develop efficient and scalable AI algorithms and systems. 
-                                I am particularly excited about redesigning AI algorithms to be both theoretically 
-                                grounded and practically efficient.
+                                My research aims to build efficient and scalable AI systems.
                             </p>
-
                             <ul style="list-style-type: none; padding-left: 1.6; line-height: 1.6;">
                                 <li style="margin-bottom: 5px;">
-                                    🤗 Scalable and Theory-grounded Optimization for Foundation Models: Pre-Training & Post-training (RL)
+                                    🤗 I develop more scalable algorithms for pretraining and RL by bridging foundational optimization theory
                                 </li>
                                 <li>
-                                    🤗 Hardware-software Co-design for Efficient AI Deployment
+                                    🤗 I push efficient AI and agent deployment
                                 </li>
                             </ul>
                         </div>
@@ -184,9 +183,9 @@
                                     </div>
                                     
                                     <div style="margin-left: 28px; font-size: 0.9em; color: #444;">
-                                        <span style="color: #000; font-weight: 500;">Team:</span> RL Science 
+                                        <span style="color: #000; font-weight: 500;">Team:</span> Coding RL Bigrun &amp; RL Science
                                         &nbsp;&nbsp;<span style="color: #ccc;">|</span>&nbsp;&nbsp;
-                                        <span style="color: #000; font-weight: 500;">Focus:</span> RL foundation for Grok models (Grok 4.2, 4.3, Grok Build)
+                                        <span style="color: #000; font-weight: 500;">Focus:</span> Key contributor of Grok 4.5, Grok Build
                                     </div>
                                 </li>
 
@@ -284,6 +283,33 @@
                         <table border=0 class="bg_colour"
                             style="padding:20px;width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;">
                             <tbody>
+
+                                <tr>
+                                    <td style="padding:10px;width:45%;vertical-align:middle">
+                                        <div class="one" style="display:flex;align-items:center;height:100%;width:100%;">
+                                            <a href="images/iso_teaser2.png">
+                                                <img src='images/iso_teaser2.png' class="hoverZoomLink" style="width: 100%; vertical-align:middle;">
+                                            </a>
+                                        </div>
+                                    </td>
+                                    <td style="padding:20px;width:55%;vertical-align:top">
+                                        <papertitle>ISO: Isospectral Optimization for RLVR</papertitle>
+                                        <br>
+                                        <strong>Hanqing Zhu</strong>,&nbsp
+                                        Wenyan Cong,&nbsp
+                                        Zhizhou Sha,&nbsp
+                                        Sagnik Mukherjee,&nbsp
+                                        Xinyuan Song,&nbsp
+                                        Xiaoxia Wu,&nbsp
+                                        Yuandong Tian,&nbsp
+                                        Shiwei Liu,&nbsp
+                                        David Z. Pan,&nbsp
+                                        Zhangyang "Atlas" Wang
+                                        <br>
+                                        <em>Release soon</em>
+                                        <br>
+                                    </td>
+                                </tr>
 
                                 <tr>
                                     <td style="padding:10px;width:45%;vertical-align:middle">
